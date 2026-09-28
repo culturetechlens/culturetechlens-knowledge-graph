@@ -1,0 +1,1794 @@
+[
+  {
+    "from": "CTL-E-0003",
+    "to": "CTL-E-0001",
+    "type": "collaborated_with",
+    "evidence": "Dixon wrote and produced many of Muddy Waters' signature Chess recordings.",
+    "source": "Blues Hall of Fame: Willie Dixon",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0003",
+    "to": "CTL-E-0002",
+    "type": "collaborated_with",
+    "evidence": "Dixon wrote and produced many of Howlin' Wolf's signature Chess recordings.",
+    "source": "Blues Hall of Fame: Willie Dixon",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0008",
+    "to": "CTL-E-0001",
+    "type": "collaborated_with",
+    "evidence": "Spann was the longtime pianist in Muddy Waters' band.",
+    "source": "Blues Hall of Fame: Otis Spann",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0007",
+    "to": "CTL-E-0001",
+    "type": "collaborated_with",
+    "evidence": "Little Walter was the harmonica player in Muddy Waters' band before his solo career.",
+    "source": "Rock & Roll Hall of Fame inductee biographies",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0004",
+    "to": "CTL-E-0003",
+    "type": "collaborated_with",
+    "evidence": "Dixon signed Taylor to Checker Records and wrote 'Wang Dang Doodle' for her.",
+    "source": "GRAMMY.com: Koko Taylor biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0006",
+    "to": "CTL-E-0005",
+    "type": "collaborated_with",
+    "evidence": "Wells and Guy were longtime musical partners who recorded and toured together for decades.",
+    "source": "Blues Hall of Fame: Junior Wells",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0017",
+    "to": "CTL-E-0016",
+    "type": "collaborated_with",
+    "evidence": "Dorsey accompanied and arranged for Mahalia Jackson early in her career.",
+    "source": "Smithsonian NMAAHC: gospel music history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0017",
+    "to": "CTL-E-0018",
+    "type": "collaborated_with",
+    "evidence": "Dorsey co-founded the National Convention of Gospel Choirs and Choruses with Sallie Martin.",
+    "source": "Smithsonian NMAAHC: gospel music history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0017",
+    "to": "CTL-E-0070",
+    "type": "collaborated_with",
+    "evidence": "McLin, Dorsey's niece, grew up in his household and accompanied his Pilgrim Baptist choir.",
+    "source": "Cook County Board resolution honoring Dr. Lena J. McLin (2019)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0070",
+    "to": "CTL-E-0035",
+    "type": "collaborated_with",
+    "evidence": "McLin's Kenwood Academy music program helped launch the career of student Chaka Khan.",
+    "source": "Cook County Board resolution honoring Dr. Lena J. McLin (2019)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0031",
+    "to": "CTL-E-0038",
+    "type": "collaborated_with",
+    "evidence": "Mayfield joined The Impressions as a teenager and became their principal songwriter and frontman.",
+    "source": "Rock & Roll Hall of Fame: The Impressions",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0032",
+    "to": "CTL-E-0038",
+    "type": "collaborated_with",
+    "evidence": "Butler was the original lead singer of The Impressions.",
+    "source": "Rock & Roll Hall of Fame: The Impressions",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0034",
+    "to": "CTL-E-0031",
+    "type": "collaborated_with",
+    "evidence": "Mayfield wrote and produced Lance's hit records for OKeh.",
+    "source": "Chicago Tribune retrospective on Major Lance",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0066",
+    "to": "CTL-E-0067",
+    "type": "collaborated_with",
+    "evidence": "White founded Earth, Wind & Fire in Chicago.",
+    "source": "Rock & Roll Hall of Fame: Earth, Wind & Fire",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0066",
+    "to": "CTL-E-0030",
+    "type": "collaborated_with",
+    "evidence": "White played drums in the Ramsey Lewis Trio before forming Earth, Wind & Fire.",
+    "source": "GRAMMY.com obituary of Maurice White",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0063",
+    "to": "CTL-E-0056",
+    "type": "collaborated_with",
+    "evidence": "No I.D. produced Common's early albums and served as his mentor.",
+    "source": "NPR producer profile of No I.D.",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0063",
+    "to": "CTL-E-0057",
+    "type": "collaborated_with",
+    "evidence": "No I.D. mentored Kanye West early in his production career.",
+    "source": "NPR producer profile of No I.D.",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0057",
+    "to": "CTL-E-0056",
+    "type": "collaborated_with",
+    "evidence": "West produced for Common and signed him to G.O.O.D. Music.",
+    "source": "GRAMMY.com artist biographies",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0062",
+    "to": "CTL-E-0057",
+    "type": "collaborated_with",
+    "evidence": "Rhymefest co-wrote 'Jesus Walks' with Kanye West.",
+    "source": "GRAMMY.com songwriter profile of Rhymefest",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0059",
+    "to": "CTL-E-0057",
+    "type": "collaborated_with",
+    "evidence": "Twista collaborated with West on the hit 'Slow Jamz'.",
+    "source": "Billboard artist biographies",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0061",
+    "to": "CTL-E-0059",
+    "type": "collaborated_with",
+    "evidence": "Twista appeared on Do or Die's 'Po Pimp' remix.",
+    "source": "Billboard artist biographies",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0055",
+    "to": "CTL-E-0046",
+    "type": "collaborated_with",
+    "evidence": "Knuckles reworked Principle's 'Your Love' into the widely released house anthem version.",
+    "source": "Library of Congress National Recording Registry essay on 'Your Love' (2026)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0024",
+    "to": "CTL-E-0025",
+    "type": "collaborated_with",
+    "evidence": "Both were key members of Chicago's Association for the Advancement of Creative Musicians (AACM).",
+    "source": "AACM institutional history / NPR profiles",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0024",
+    "to": "CTL-E-0026",
+    "type": "collaborated_with",
+    "evidence": "Both were key members of Chicago's Association for the Advancement of Creative Musicians (AACM).",
+    "source": "AACM institutional history / NPR profiles",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0105",
+    "to": "CTL-E-0101",
+    "type": "related_to",
+    "evidence": "Sengstacke was Abbott's nephew and succeeded him as publisher of the Chicago Defender.",
+    "source": "Chicago Defender archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0091",
+    "to": "CTL-E-0086",
+    "type": "related_to",
+    "evidence": "Daughter of John H. Johnson; succeeded him as head of Johnson Publishing Company.",
+    "source": "Johnson Publishing Company records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0080",
+    "to": "CTL-E-0082",
+    "type": "related_to",
+    "evidence": "Rush founded the Illinois Black Panther Party chapter in which Hampton served as deputy chairman.",
+    "source": "Chicago Tribune retrospective coverage",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0077",
+    "to": "CTL-E-0074",
+    "type": "related_to",
+    "evidence": "Preckwinkle worked in the Department of Economic Development during the Washington mayoral administration.",
+    "source": "City Club of Chicago biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0107",
+    "to": "CTL-E-0109",
+    "type": "related_to",
+    "evidence": "Adams later led the DuSable Museum that Burroughs co-founded.",
+    "source": "DuSable Museum records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0110",
+    "to": "CTL-E-0120",
+    "type": "related_to",
+    "evidence": "Fannie Barrier Williams helped organize Provident Hospital, founded by Daniel Hale Williams.",
+    "source": "BlackPast.org / Provident Hospital founding records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0085",
+    "to": "CTL-E-0098",
+    "type": "related_to",
+    "evidence": "Bishop Ford gave the eulogy at Emmett Till's funeral at Roberts Temple in 1955.",
+    "source": "Block Club Chicago / Preservation Chicago",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0076",
+    "to": "CTL-E-0074",
+    "type": "related_to",
+    "evidence": "Tillman served as 3rd Ward alderwoman during the Washington mayoralty and was an ally of his administration.",
+    "source": "Chicago Tribune coverage",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0104",
+    "to": "CTL-E-0074",
+    "type": "related_to",
+    "evidence": "Palmer coined the 'We Shall See in 83' slogan and was a key strategist in Washington's 1983 mayoral campaign.",
+    "source": "Congressional Record (congress.gov)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0242",
+    "to": "CTL-E-0126",
+    "type": "held_at",
+    "evidence": "The Savoy Ballroom opened at 4733 S. Parkway on November 23, 1927.",
+    "source": "Jazz Age Chicago: Savoy Ballroom",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0243",
+    "to": "CTL-E-0125",
+    "type": "held_at",
+    "evidence": "The Regal Theater opened at 4719 S. Parkway on February 4, 1928.",
+    "source": "Encyclopedia of Chicago: Regal Theater",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0246",
+    "to": "CTL-E-0196",
+    "type": "held_at",
+    "evidence": "The South Side Community Art Center at 3831 S. Michigan Ave was formally dedicated on May 7, 1941.",
+    "source": "NPS: South Side Community Art Center nomination",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0253",
+    "to": "CTL-E-0229",
+    "type": "held_at",
+    "evidence": "Emmett Till's open-casket visitation and funeral were held at Roberts Temple, 4021 S. State St, September 3–6, 1955.",
+    "source": "City of Chicago Landmark Report: Emmett Till and Mamie Till-Mobley House",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0247",
+    "to": "CTL-E-0233",
+    "type": "held_at",
+    "evidence": "The Rhumboogie Café opened at 343 E. 55th St in April 1942.",
+    "source": "Wikipedia: Rhumboogie Café",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0248",
+    "to": "CTL-E-0233",
+    "type": "held_at",
+    "evidence": "Fire destroyed the Rhumboogie Café at 343 E. 55th St on December 31, 1945.",
+    "source": "Wikipedia: Rhumboogie Café",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0249",
+    "to": "CTL-E-0233",
+    "type": "held_at",
+    "evidence": "The Rhumboogie Café at 343 E. 55th St reopened in June 1946.",
+    "source": "Wikipedia: Rhumboogie Café",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0250",
+    "to": "CTL-E-0233",
+    "type": "held_at",
+    "evidence": "The Rhumboogie Café at 343 E. 55th St closed permanently in May 1947.",
+    "source": "Wikipedia: Rhumboogie Café",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0258",
+    "to": "CTL-E-0236",
+    "type": "held_at",
+    "evidence": "Disco Demolition Night took place at the original Comiskey Park on July 12, 1979.",
+    "source": "Chicago History Museum: Disco Demolition Night",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0257",
+    "to": "CTL-E-0125",
+    "type": "held_at",
+    "evidence": "The Regal Theater at 4719 S. Parkway was demolished in 1973.",
+    "source": "Encyclopedia of Chicago: Regal Theater",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0261",
+    "to": "CTL-E-0149",
+    "type": "held_at",
+    "evidence": "Fire gutted Pilgrim Baptist Church at 3301 S. Indiana Ave on January 6, 2006.",
+    "source": "GRAMMY.com: National Museum of Gospel Music / Pilgrim Baptist",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0254",
+    "to": "CTL-E-0128",
+    "type": "held_at",
+    "evidence": "Club DeLisa closed February 16, 1958; sources place it on State Street near Garfield Boulevard, with the exact street number disputed.",
+    "source": "Wikipedia: Club DeLisa",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0256",
+    "to": "CTL-E-0223",
+    "type": "held_at",
+    "evidence": "On August 5, 1966, Dr. King led about 700 marchers into Marquette Park.",
+    "source": "Wikipedia: Marquette Park rallies",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0263",
+    "to": "CTL-E-0237",
+    "type": "held_at",
+    "evidence": "The Martin Luther King Jr. Living Memorial in Marquette Park was dedicated August 5, 2016.",
+    "source": "Chicago Park District: MLK Jr. Living Memorial",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0244",
+    "to": "CTL-E-0208",
+    "type": "held_at",
+    "evidence": "The first parade's route reportedly began on Michigan Avenue at 31st Street and turned into Washington Park.",
+    "source": "28 Days of Black History: Bud Billiken Parade",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0001",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Muddy Waters recorded his classic catalog for Chess Records.",
+    "source": "Rock & Roll Hall of Fame inductee biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0002",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Howlin' Wolf recorded his classic catalog for Chess Records.",
+    "source": "Rock & Roll Hall of Fame inductee biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0003",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Dixon was Chess's staff songwriter, producer, and session bassist.",
+    "source": "Blues Hall of Fame: Willie Dixon",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0007",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Little Walter recorded for Chess (and its Checker subsidiary).",
+    "source": "Rock & Roll Hall of Fame inductee biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0004",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Taylor recorded for Chess's Checker subsidiary after Dixon signed her.",
+    "source": "GRAMMY.com: Koko Taylor biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0011",
+    "to": "CTL-E-0166",
+    "type": "recorded_for",
+    "evidence": "Reed was a hitmaking star of Vee-Jay Records.",
+    "source": "Rock & Roll Hall of Fame inductee biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0005",
+    "to": "CTL-E-0131",
+    "type": "performed_at",
+    "evidence": "Guy co-founded and regularly performed at the Checkerboard Lounge.",
+    "source": "Chicago Tribune retrospective",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0006",
+    "to": "CTL-E-0132",
+    "type": "performed_at",
+    "evidence": "Wells held a weekly Monday-night gig at Theresa's Lounge and recorded 'Live at Theresa's' there.",
+    "source": "Illinois Entertainer: 'Junior Wells: Live At Theresa's'",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0017",
+    "to": "CTL-E-0149",
+    "type": "affiliated_with",
+    "evidence": "Dorsey served as minister of music at Pilgrim Baptist Church.",
+    "source": "Chicago History Museum: Thomas A. Dorsey collection",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0021",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Cole grew up in Chicago's Bronzeville neighborhood.",
+    "source": "Britannica: Nat King Cole",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0046",
+    "to": "CTL-E-0134",
+    "type": "played",
+    "evidence": "Knuckles was the resident DJ at the Warehouse club.",
+    "source": "Chicago History Museum: house music collection",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0028",
+    "to": "CTL-E-0140",
+    "type": "performed_at",
+    "evidence": "Freeman was a longtime regular performer at the New Apartment Lounge.",
+    "source": "Chicago Tribune obituary",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0068",
+    "to": "CTL-E-0166",
+    "type": "affiliated_with",
+    "evidence": "Carter co-founded Vee-Jay Records with her husband Jimmy Bracken.",
+    "source": "Chicago History Museum: Vee-Jay Records history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0069",
+    "to": "CTL-E-0179",
+    "type": "affiliated_with",
+    "evidence": "Kent was a longtime DJ on WVON radio.",
+    "source": "Chicago Tribune obituary",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0031",
+    "to": "CTL-E-0167",
+    "type": "affiliated_with",
+    "evidence": "Mayfield founded his own label, Curtom Records.",
+    "source": "Rock & Roll Hall of Fame inductee biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0022",
+    "to": "CTL-E-0125",
+    "type": "performed_at",
+    "evidence": "Washington headlined Chicago's Regal Theater during her career.",
+    "source": "Rock & Roll Hall of Fame inductee biography",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0266",
+    "to": "CTL-E-0101",
+    "type": "founded_by",
+    "evidence": "Abbott founded the Chicago Defender in 1905.",
+    "source": "Chicago Defender archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0105",
+    "to": "CTL-E-0266",
+    "type": "affiliated_with",
+    "evidence": "Sengstacke succeeded his uncle Robert S. Abbott as publisher of the Chicago Defender.",
+    "source": "Chicago Defender archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0269",
+    "to": "CTL-E-0086",
+    "type": "founded_by",
+    "evidence": "Johnson founded Ebony magazine in 1945.",
+    "source": "Johnson Publishing Company archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0270",
+    "to": "CTL-E-0086",
+    "type": "founded_by",
+    "evidence": "Johnson founded Jet magazine in 1951.",
+    "source": "Johnson Publishing Company archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0195",
+    "to": "CTL-E-0107",
+    "type": "founded_by",
+    "evidence": "Burroughs co-founded the museum (as the Ebony Museum of Negro History and Art) in 1961.",
+    "source": "DuSable Museum archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0151",
+    "to": "CTL-E-0094",
+    "type": "founded_by",
+    "evidence": "Evans founded Fellowship Missionary Baptist Church in 1950.",
+    "source": "Fellowship Missionary Baptist Church records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0188",
+    "to": "CTL-E-0088",
+    "type": "founded_by",
+    "evidence": "Binga founded Binga State Bank in 1908, Chicago's first Black-owned bank.",
+    "source": "Chicago History Museum collections",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0288",
+    "to": "CTL-E-0083",
+    "type": "founded_by",
+    "evidence": "Jackson founded Operation PUSH in Chicago in 1971.",
+    "source": "Operation PUSH archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0266",
+    "to": "CTL-E-0102",
+    "type": "wrote_for",
+    "evidence": "Payne was the Chicago Defender's Washington correspondent.",
+    "source": "Chicago Defender archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0266",
+    "to": "CTL-E-0103",
+    "type": "wrote_for",
+    "evidence": "Jarrett began his journalism career at the Chicago Defender in the 1940s.",
+    "source": "The HistoryMakers oral history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0266",
+    "to": "CTL-E-0104",
+    "type": "wrote_for",
+    "evidence": "Palmer came to Chicago in 1950 as a reporter for the Chicago Defender.",
+    "source": "The HistoryMakers oral history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0095",
+    "to": "CTL-E-0150",
+    "type": "affiliated_with",
+    "evidence": "Wright was senior pastor of Trinity United Church of Christ from 1972 to 2008.",
+    "source": "Trinity United Church of Christ records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0096",
+    "to": "CTL-E-0154",
+    "type": "affiliated_with",
+    "evidence": "Brazier was longtime pastor of the Apostolic Church of God in Woodlawn.",
+    "source": "Apostolic Church of God records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0117",
+    "to": "CTL-E-0160",
+    "type": "affiliated_with",
+    "evidence": "Madhubuti taught at Chicago State University for decades.",
+    "source": "Chicago State University records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0109",
+    "to": "CTL-E-0195",
+    "type": "affiliated_with",
+    "evidence": "Adams was president and CEO of the DuSable Museum from 2005 to 2016.",
+    "source": "DuSable Museum records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0107",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Burroughs lived and worked in Bronzeville and founded the DuSable Museum there.",
+    "source": "DuSable Museum archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0116",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Wright lived on Chicago's South Side and set Native Son in Bronzeville.",
+    "source": "Library of Congress collections",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0114",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Brooks was a lifelong South Side resident whose poetry chronicled Bronzeville life.",
+    "source": "Library of Congress records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0081",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Wells settled in Chicago and lived in Bronzeville; the Ida B. Wells Homes were named for her.",
+    "source": "DuSable Museum archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0119",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Travis was a Bronzeville real estate developer and historian of the neighborhood.",
+    "source": "DuSable Museum archives",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0125",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville movie palace on the South Side",
+    "source": "Documented in Chicago theater histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0126",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville dance hall",
+    "source": "Encyclopedia of Chicago",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0127",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville ballroom",
+    "source": "Documented in Chicago nightlife histories",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0128",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville nightclub",
+    "source": "Encyclopedia of Chicago",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0129",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville nightclub",
+    "source": "Documented in Chicago jazz histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0130",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville nightclub",
+    "source": "Documented in Chicago jazz histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0132",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "South Side blues lounge in Bronzeville/Grand Boulevard",
+    "source": "Documented in Chicago blues histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0145",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "47th Street Bronzeville tavern",
+    "source": "Documented in Bronzeville histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0137",
+    "to": "CTL-E-0209",
+    "type": "located_in",
+    "evidence": "Pershing Hotel at 64th and Cottage Grove, Woodlawn",
+    "source": "Chicago Bike Adventures — Hotel Pershing",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0138",
+    "to": "CTL-E-0209",
+    "type": "located_in",
+    "evidence": "62nd and Cottage Grove, Woodlawn",
+    "source": "Chicago History Museum",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0140",
+    "to": "CTL-E-0211",
+    "type": "located_in",
+    "evidence": "504 E 75th Street, Chatham",
+    "source": "Chicago Bar Project",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0131",
+    "to": "CTL-E-0214",
+    "type": "located_in",
+    "evidence": "Hyde Park blues club",
+    "source": "Documented in Chicago blues histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0134",
+    "to": "CTL-E-0220",
+    "type": "located_in",
+    "evidence": "206 S Jefferson St, Near West Side",
+    "source": "Documented in house-music histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0135",
+    "to": "CTL-E-0220",
+    "type": "located_in",
+    "evidence": "West Side house-music club",
+    "source": "Documented in house-music histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0147",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville AME congregation",
+    "source": "Encyclopedia of Chicago",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0148",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville Baptist church",
+    "source": "Documented in Black Chicago church histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0149",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville church",
+    "source": "Documented in gospel music histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0155",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville church",
+    "source": "Church's own history page",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville high school",
+    "source": "Chicago Public Schools",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0158",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville high school",
+    "source": "Chicago Public Schools",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0159",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "South Side career academy in Bronzeville/Douglas",
+    "source": "Chicago Public Schools",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0162",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville selective-enrollment high school",
+    "source": "Chicago Public Schools",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0195",
+    "to": "CTL-E-0208",
+    "type": "located_in",
+    "evidence": "Washington Park museum campus",
+    "source": "DuSable Museum institutional history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0196",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville arts center",
+    "source": "SSCAC institutional history",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0188",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville Black-owned bank",
+    "source": "Encyclopedia of Chicago",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0189",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville manufacturing company",
+    "source": "BlackPast.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0193",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Bronzeville Black-owned bank",
+    "source": "BlackPast.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0166",
+    "to": "CTL-E-0068",
+    "type": "founded_by",
+    "evidence": "Co-founded by Vivian Carter and Jimmy Bracken",
+    "source": "Wikipedia — Vee-Jay Records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0167",
+    "to": "CTL-E-0031",
+    "type": "founded_by",
+    "evidence": "Founded by Curtis Mayfield",
+    "source": "Wikipedia — Curtom Records",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0171",
+    "to": "CTL-E-0052",
+    "type": "founded_by",
+    "evidence": "Founded by Jesse Saunders",
+    "source": "Documented in house-music histories",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0182",
+    "to": "CTL-E-0086",
+    "type": "founded_by",
+    "evidence": "Johnson Publishing's radio station",
+    "source": "Documented in Chicago radio histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0189",
+    "to": "CTL-E-0087",
+    "type": "founded_by",
+    "evidence": "Founded by Anthony Overton",
+    "source": "BlackPast.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0193",
+    "to": "CTL-E-0087",
+    "type": "founded_by",
+    "evidence": "Founded by Anthony Overton",
+    "source": "BlackPast.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0192",
+    "to": "CTL-E-0086",
+    "type": "founded_by",
+    "evidence": "Founded by John H. Johnson",
+    "source": "Encyclopedia of Chicago",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0179",
+    "to": "CTL-E-0069",
+    "type": "hosted",
+    "evidence": "Herb Kent, 'The Cool Gent,' was a longtime WVON DJ",
+    "source": "Documented in Chicago radio histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0149",
+    "to": "CTL-E-0017",
+    "type": "nurtured",
+    "evidence": "Dorsey was Pilgrim's music director and father of gospel music there",
+    "source": "Documented in gospel music histories",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0153",
+    "to": "CTL-E-0019",
+    "type": "nurtured",
+    "evidence": "Associated with the Roberta Martin gospel tradition",
+    "source": "Documented in gospel music histories",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0101",
+    "to": "CTL-E-0244",
+    "type": "initiated",
+    "evidence": "Robert S. Abbott, founder of the Chicago Defender, launched the Bud Billiken Parade on August 11, 1929.",
+    "source": "MDSOAR: Bud Billiken Parade study (1929–2000); 28 Days of Black History: Bud Billiken Parade",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0271",
+    "to": "CTL-E-0086",
+    "type": "founded_by",
+    "evidence": "Johnson founded Negro Digest in November 1942; renamed Black World in 1970 (Wikipedia — Negro Digest)",
+    "source": "Wikipedia — Negro Digest",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0289",
+    "to": "CTL-E-0083",
+    "type": "founded_by",
+    "evidence": "Formed 1996 from the merger of Operation PUSH and the National Rainbow Coalition, both founded by Jackson (Congressional Record)",
+    "source": "Congressional Record — tribute to Rev. Jesse L. Jackson Sr.",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0290",
+    "to": "CTL-E-0024",
+    "type": "founded_by",
+    "evidence": "Founded May 1965 in Chicago by Abrams with Jodie Christian, Steve McCall, and Phil Cohran (Wikipedia; NEA)",
+    "source": "National Endowment for the Arts — Muhal Richard Abrams on founding AACM",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0291",
+    "to": "CTL-E-0082",
+    "type": "founded_by",
+    "evidence": "Founded in 1968 by Fred Hampton and Bobby Rush (Digital Chicago History)",
+    "source": "Digital Chicago History — The Illinois Chapter of the Black Panther Party",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0291",
+    "to": "CTL-E-0080",
+    "type": "founded_by",
+    "evidence": "Founded in 1968 by Fred Hampton and Bobby Rush (Digital Chicago History)",
+    "source": "Digital Chicago History — The Illinois Chapter of the Black Panther Party",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0292",
+    "to": "CTL-E-0244",
+    "type": "organized",
+    "evidence": "Defender Charities created, developed, and sponsored the Bud Billiken Parade, held every summer since 1929 (Congressional Record; chipublib.org)",
+    "source": "Congressional Record — Chicago Daily Defender Commemoration",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0300",
+    "to": "CTL-E-0117",
+    "type": "founded_by",
+    "evidence": "Founded in Chicago in 1969 by Madhubuti and others, with Madhubuti as director (Encyclopedia.com — Haki R. Madhubuti)",
+    "source": "Encyclopedia.com — Haki R. Madhubuti",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0266",
+    "to": "CTL-E-0114",
+    "type": "wrote_for",
+    "evidence": "Brooks published many of her early verses in the Chicago Defender (Britannica — Gwendolyn Brooks)",
+    "source": "Britannica — Gwendolyn Brooks",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0294",
+    "to": "CTL-E-0096",
+    "type": "founded_by",
+    "evidence": "Brazier was one of the founders of, and spokesman for, TWO formed in 1960 (Nonprofit Quarterly; The Chicago Reporter)",
+    "source": "Nonprofit Quarterly — Community Organizing Legacy",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0291",
+    "to": "CTL-E-0220",
+    "type": "located_in",
+    "evidence": "The Illinois chapter headquartered at 2350 W. Madison Street in the Near West Side community area, running its free breakfast and health-clinic survival programs from that base.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0161",
+    "to": "CTL-E-0213",
+    "type": "located_in",
+    "evidence": "Kennedy-King College is a City Colleges of Chicago campus in Englewood serving the South Side.",
+    "source": "institutions-venues.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0191",
+    "to": "CTL-E-0211",
+    "type": "located_in",
+    "evidence": "Seaway National Bank is a Black-owned South Side bank serving Chatham and the surrounding South Side.",
+    "source": "institutions-venues.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0287",
+    "to": "CTL-E-0207",
+    "type": "located_in",
+    "evidence": "The Chicago Urban League's headquarters at 4510 S. Michigan Avenue sits in the Grand Boulevard community area.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0294",
+    "to": "CTL-E-0209",
+    "type": "located_in",
+    "evidence": "The Woodlawn Organization is a South Side community organization formed in 1960 to fight displacement and racial discrimination in Woodlawn.",
+    "source": "press-orgs.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0227",
+    "to": "CTL-E-0206",
+    "type": "located_in",
+    "evidence": "The Chicago Defender Building at 3435 S. Indiana Avenue, home of the Defender newspaper from 1920 to 1960, stands in the Douglas community area.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0226",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "The Wabash Avenue YMCA at 3763 S. Wabash Avenue, the 1913 building that hosted the organizing of Negro History Week, is a Bronzeville landmark.",
+    "source": "CTL research 2026-09-28; news.uchicago.edu",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0231",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "The Eighth Regiment Armory at 3533 S. Giles Avenue, built in 1914 for the African American Fighting Eighth regiment, stands in Bronzeville.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0229",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "Roberts Temple Church of God in Christ at 4021 S. State Street, site of Emmett Till's 1955 open-casket funeral, is in Bronzeville.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0154",
+    "to": "CTL-E-0209",
+    "type": "located_in",
+    "evidence": "The Apostolic Church of God at 6320 S. Dorchester Avenue, led for decades by Bishop Arthur M. Brazier, is in the Woodlawn community area.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0152",
+    "to": "CTL-E-0207",
+    "type": "located_in",
+    "evidence": "Ebenezer Missionary Baptist Church at 4501 S. Vincennes Avenue is documented as standing in the Grand Boulevard community area.",
+    "source": "en.wikipedia.org/wiki/Ebenezer_Missionary_Baptist_Church_(Chicago)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0190",
+    "to": "CTL-E-0206",
+    "type": "located_in",
+    "evidence": "The Supreme Life Insurance Company building at 3501 S. King Drive sits in the Douglas community area.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0156",
+    "to": "CTL-E-0207",
+    "type": "located_in",
+    "evidence": "Corpus Christi Catholic Church at 4920 S. King Drive is documented as a Grand Boulevard building.",
+    "source": "preservationchicago.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0146",
+    "to": "CTL-E-0215",
+    "type": "located_in",
+    "evidence": "The Sutherland Lounge, the jazz lounge in the Sutherland Hotel at 47th and Drexel, is in the Kenwood community area.",
+    "source": "CTL research 2026-09-28",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0230",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "The Chicago Bee Building at 3647-3655 S. State Street, home of Anthony Overton's Chicago Bee newspaper, is a Bronzeville landmark.",
+    "source": "chicagoliteraryhof.org; preservationchicago.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0232",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "The Victory Monument at 35th Street and Martin Luther King Jr. Drive, honoring the Eighth Regiment's World War I service, is a designated Chicago landmark in Bronzeville.",
+    "source": "webapps1.cityofchicago.org landmarks",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0275",
+    "to": "CTL-E-0212",
+    "type": "located_in",
+    "evidence": "The Final Call, the Nation of Islam's official newspaper, is published from its Auburn Gresham location on Chicago's South Side.",
+    "source": "new.finalcall.com",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0194",
+    "to": "CTL-E-0211",
+    "type": "located_in",
+    "evidence": "The former Independence Bank of Chicago building at 7936 S. Cottage Grove is documented as sitting in the Chatham community area.",
+    "source": "citizennewspapergroup.com; nkfi.org",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0184",
+    "to": "CTL-E-0214",
+    "type": "located_in",
+    "evidence": "WHPK broadcasts from the University of Chicago campus in Hyde Park, where it has championed hip-hop since the 1980s.",
+    "source": "hip-hop.digital.uic.edu",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0160",
+    "to": "CTL-E-0218",
+    "type": "located_in",
+    "evidence": "Chicago State University describes itself as an anchor institution sitting on 161 acres in Chicago's Roseland community.",
+    "source": "csu.edu",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0289",
+    "to": "CTL-E-0205",
+    "type": "located_in",
+    "evidence": "The Rainbow PUSH Coalition's landmark headquarters at 930 E. 50th Street is documented as being in Bronzeville.",
+    "source": "choosechicago.com",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0237",
+    "to": "CTL-E-0223",
+    "type": "located_in",
+    "evidence": "The Martin Luther King Jr. Living Memorial in Marquette Park was dedicated August 5, 2016, marking the 50th anniversary of Dr. King's 1966 open-housing march there.",
+    "source": "places-events.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0186",
+    "to": "CTL-E-0214",
+    "type": "located_in",
+    "evidence": "Dr. Wax Records is a Hyde Park record store institution for jazz, soul, and reggae vinyl.",
+    "source": "institutions-venues.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0074",
+    "type": "has_alumnus",
+    "evidence": "A City of Chicago DuSable High School report names Harold Washington among the school's notable alumni.",
+    "source": "chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0086",
+    "type": "has_alumnus",
+    "evidence": "A City of Chicago DuSable High School report names John H. Johnson among the school's notable alumni.",
+    "source": "chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0119",
+    "type": "has_alumnus",
+    "evidence": "A City of Chicago DuSable High School report names Dempsey Travis among the school's notable alumni.",
+    "source": "chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0108",
+    "type": "has_alumnus",
+    "evidence": "A City of Chicago DuSable High School report names Dr. Timuel Black among the school's notable alumni.",
+    "source": "chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0021",
+    "type": "has_alumnus",
+    "evidence": "DuSable High School's own description names Nat King Cole among its alumni; the City of Chicago report discusses him in its alumni history, though some accounts describe his tie as participation in Walter Dyett's music program rather than standard enrollment.",
+    "source": "institutions-venues.json; chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0022",
+    "type": "has_alumnus",
+    "evidence": "DuSable High School's own description names Dinah Washington among its alumni, and the City of Chicago report includes her in its alumni history.",
+    "source": "institutions-venues.json; chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0027",
+    "type": "has_alumnus",
+    "evidence": "A City of Chicago DuSable High School report names Gene Ammons among the school's notable alumni.",
+    "source": "chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0028",
+    "type": "has_alumnus",
+    "evidence": "A City of Chicago DuSable High School report names Von Freeman among the school's notable alumni.",
+    "source": "chicago.gov DuSable High School report",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0022",
+    "to": "CTL-E-0129",
+    "type": "performed_at",
+    "evidence": "Ruth Lee Jones, shortly before adopting the Dinah Washington name, performed at Dave's Rhumboogie in the mid-1940s.",
+    "source": "soulwalking.co.uk; en.wikipedia.org/wiki/Rhumboogie_Cafe",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0023",
+    "to": "CTL-E-0128",
+    "type": "performed_at",
+    "evidence": "Sun Ra had an extended 1946 engagement at Club DeLisa as pianist and arranger for Fletcher Henderson's band.",
+    "source": "en.wikipedia.org/wiki/Sun_Ra",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0022",
+    "to": "CTL-E-0136",
+    "type": "performed_at",
+    "evidence": "Roberts Show Lounge, Herman Roberts's South Side show lounge, starred Dinah Washington alongside Nina Simone and Sam Cooke.",
+    "source": "institutions-venues.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0245",
+    "to": "CTL-E-0226",
+    "type": "held_at",
+    "evidence": "In February 1926 Carter G. Woodson walked into the Wabash YMCA in Bronzeville to announce the creation of Negro History Week, the predecessor of Black History Month.",
+    "source": "news.uchicago.edu",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0263",
+    "to": "CTL-E-0223",
+    "type": "held_at",
+    "evidence": "The Martin Luther King Jr. Living Memorial was dedicated in Marquette Park on August 5, 2016, the 50th anniversary of the 1966 open-housing march.",
+    "source": "places-events.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0108",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Official sources record that Dr. Timuel Black, the Chicago civil rights leader and historian, grew up in Bronzeville.",
+    "source": "congress.gov; news.uchicago.edu",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0118",
+    "to": "CTL-E-0213",
+    "type": "associated_with",
+    "evidence": "The Chicago Public Library documents that novelist Willard Motley grew up and came of age in Englewood.",
+    "source": "chipublib.bibliocommons.com",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0074",
+    "to": "CTL-E-0214",
+    "type": "associated_with",
+    "evidence": "During his tenure as mayor, Harold Washington lived at the Hampton House apartments, 5300 S. Shore Drive, in the Hyde Park neighborhood.",
+    "source": "hydeparkhistory.org; en.wikipedia.org/wiki/Harold_Washington",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0079",
+    "to": "CTL-E-0215",
+    "type": "associated_with",
+    "evidence": "Barack Obama's Chicago home at 5046 S. Greenwood Avenue is in the historic Kenwood neighborhood on the South Side.",
+    "source": "lucidrealty.com; archidust.com",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0115",
+    "to": "CTL-E-0209",
+    "type": "associated_with",
+    "evidence": "Lorraine Hansberry was born on the South Side and grew up in Chicago's Woodlawn neighborhood, where her family's fight against a restrictive covenant led to the Supreme Court case Hansberry v. Lee.",
+    "source": "speech.studio",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0016",
+    "to": "CTL-E-0211",
+    "type": "associated_with",
+    "evidence": "Mahalia Jackson bought her stately home at 8353 Indiana Avenue in Chatham Village in 1957 and was a longtime Chatham resident; the house became an unofficial headquarters for Dr. King and the civil rights movement.",
+    "source": "mahalia-jackson.com; citizennewspapergroup.com",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0035",
+    "to": "CTL-E-0214",
+    "type": "associated_with",
+    "evidence": "Chaka Khan was born Yvette Marie Stevens in Chicago and raised in the Hyde Park area of the South Side.",
+    "source": "en.wikipedia.org/wiki/Chaka_Khan",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0026",
+    "to": "CTL-E-0290",
+    "type": "affiliated_with",
+    "evidence": "Henry Threadgill is a composer and saxophonist of the AACM generation, a Pulitzer-winning member of the Association for the Advancement of Creative Musicians circle.",
+    "source": "music-people.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0025",
+    "to": "CTL-E-0290",
+    "type": "affiliated_with",
+    "evidence": "Anthony Braxton is a composer and multi-instrumentalist described as a key figure of the AACM avant-garde.",
+    "source": "music-people.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0083",
+    "to": "CTL-E-0296",
+    "type": "affiliated_with",
+    "evidence": "Jesse Jackson headed the Chicago chapter of Operation Breadbasket, SCLC's economic-justice program, from 1966, using boycotts to win Black jobs.",
+    "source": "press-orgs.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0152",
+    "to": "CTL-E-0016",
+    "type": "nurtured",
+    "evidence": "Ebenezer Missionary Baptist Church's choir helped launch the career of Mahalia Jackson; the church is credited as a birthplace of gospel music.",
+    "source": "en.wikipedia.org/wiki/Ebenezer_Missionary_Baptist_Church_(Chicago)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0152",
+    "to": "CTL-E-0022",
+    "type": "nurtured",
+    "evidence": "Ebenezer Missionary Baptist Church's choir helped launch the career of Dinah Washington; the church is credited as a birthplace of gospel music.",
+    "source": "en.wikipedia.org/wiki/Ebenezer_Missionary_Baptist_Church_(Chicago)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0152",
+    "to": "CTL-E-0018",
+    "type": "nurtured",
+    "evidence": "Ebenezer Missionary Baptist Church's choir helped launch the career of gospel organizer Sallie Martin; the church is credited as a birthplace of gospel music.",
+    "source": "en.wikipedia.org/wiki/Ebenezer_Missionary_Baptist_Church_(Chicago)",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0014",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Sonny Boy Williamson II was a Chess recording artist, the blues harmonica player, singer, and songwriter behind the Chess blues catalog.",
+    "source": "music-people.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0101",
+    "to": "CTL-E-0241",
+    "type": "initiated",
+    "evidence": "Robert Sengstacke Abbott published the first issue of the Chicago Defender in May 1905.",
+    "source": "places-events.json",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0276",
+    "to": "CTL-E-0112",
+    "type": "authored_by",
+    "evidence": "Co-authored by St. Clair Drake and Horace R. Cayton; landmark 1945 sociological study of Bronzeville.",
+    "source": "Drake & Cayton, Black Metropolis (1945); University of Chicago Press",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0277",
+    "to": "CTL-E-0116",
+    "type": "authored_by",
+    "evidence": "Richard Wright's 1940 novel set in Chicago's South Side.",
+    "source": "Harper & Brothers, 1940; Library of America",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0280",
+    "to": "CTL-E-0116",
+    "type": "authored_by",
+    "evidence": "Richard Wright's 1945 autobiography.",
+    "source": "Harper & Brothers, 1945; Library of America",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0278",
+    "to": "CTL-E-0115",
+    "type": "authored_by",
+    "evidence": "Lorraine Hansberry's 1959 play; first Broadway play by a Black woman.",
+    "source": "Vintage Books; Broadway premiere records, 1959",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0279",
+    "to": "CTL-E-0114",
+    "type": "authored_by",
+    "evidence": "Gwendolyn Brooks's 1945 debut poetry collection.",
+    "source": "Harper & Brothers, 1945",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0283",
+    "to": "CTL-E-0031",
+    "type": "authored_by",
+    "evidence": "Soundtrack album written, produced, and performed by Curtis Mayfield (1972).",
+    "source": "Curtom Records, 1972; Library of Congress National Recording Registry",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0284",
+    "to": "CTL-E-0003",
+    "type": "authored_by",
+    "evidence": "Blues standard written by Willie Dixon; Muddy Waters's 1954 Chess recording.",
+    "source": "Chess Records, 1954; Blues Hall of Fame",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0005",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Buddy Guy's first Chess single, 'The First Time I Met the Blues,' was recorded March 6, 1960 at Chess Records, 2120 S. Michigan Ave.; he recorded for Chess from 1960 to 1967 and served as a house session guitarist for Muddy Waters, Howlin' Wolf and others.",
+    "source": "https://www.guitarworld.com/features/buddy-guy-man-and-his-blues",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0008",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Spann was in constant demand as a Chess session pianist (Muddy Waters, Bo Diddley, Howlin' Wolf, Little Walter, Sonny Boy Williamson sessions); his 1954 single 'It Must Have Been the Devil' backed with 'Five Spot' was issued on Checker, the Chess subsidiary imprint.",
+    "source": "https://earlyblues.org/blues-artists-biographies-otis-spann/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0009",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Discogs documents a July 11, 1952 Chicago session released as 'Broken Heart' / 'Me and My Chauffeur' (as Memphis Minnie with Little Joe and His Band); her career bio lists Checker, a Chess subsidiary imprint, among the labels she recorded for (Columbia, Vocalion, Bluebird, OKeh, Regal, Checker, JOB).",
+    "source": "https://www.qobuz.com/no-en/interpreter/memphis-minnie/31066",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0010",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "AnalogPlanet documents Broonzy's April 1953 recording sessions for Chess; All About Jazz also lists Chess among Broonzy's recording labels.",
+    "source": "https://www.analogplanet.com/content/big-bill-broonzy-bill-broonzy-story-verve-mgv-3000-5-records-you-didn%E2%80%99t-know-you-needed-11-0",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0013",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "EarlyBlues documents five Chess titles recorded by Elmore James plus a release on the Checker subsidiary; encyclopedia biographies confirm Chess among his recording labels.",
+    "source": "https://earlyblues.org/blues-artists-biographies-elmore-james/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0033",
+    "to": "CTL-E-0166",
+    "type": "recorded_for",
+    "evidence": "Vee-Jay released 'Duke of Earl' (1962), which sold a million copies in just over a month and spent three weeks at No. 1, plus the LP 'The Duke of Earl' (VJLP 1040); Chandler remained with Vee-Jay through autumn 1963.",
+    "source": "https://en.wikipedia.org/wiki/Gene_Chandler",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0032",
+    "to": "CTL-E-0166",
+    "type": "recorded_for",
+    "evidence": "Jerry Butler and the Impressions' 1958 'For Your Precious Love' was released as a single on Vee-Jay Records (No. 3 R&B, No. 11 pop); after Chess Records passed on the group, they went across the street and signed with Vee-Jay.",
+    "source": "https://en.wikipedia.org/wiki/For_Your_Precious_Love",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0031",
+    "to": "CTL-E-0167",
+    "type": "recorded_for",
+    "evidence": "Mayfield's debut solo album 'Curtis' (1970) and many subsequent records were released on Curtom, the artist-run label he founded; documented as the flagship of his independent recording career.",
+    "source": "https://reverb.com/news/curtis-mayfield-curtom-records-and-the-legacy-of-artist-run-labels",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0006",
+    "to": "CTL-E-0172",
+    "type": "recorded_for",
+    "evidence": "'Hoodoo Man Blues' (1965), Junior Wells's landmark album with the Chicago Blues Band, was released on Delmark Records.",
+    "source": "https://guitar.com/reviews/album/the-genius-of-hoodoo-man-blues-by-junior-wells-chicago-blues-band/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0015",
+    "to": "CTL-E-0172",
+    "type": "recorded_for",
+    "evidence": "'West Side Soul' (1967), Magic Sam's debut LP, was issued on the Delmark label (catalog DS-615). Single-source discographic record; marked provisional pending a second source.",
+    "source": "https://row.rarevinyl.com/it/products/magic-sam-west-side-soul-us-vinyl-lp-album-record-ds-615-616284",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0048",
+    "to": "CTL-E-0169",
+    "type": "recorded_for",
+    "evidence": "Jefferson's 'Move Your Body' (1986), the defining Chicago house anthem, was released on Trax Records; documented by GRAMMY's house-music retrospective and Trax Records' own artist page.",
+    "source": "https://www.grammy.com/news/record-store-recs-chicago-house-hero-marshall-jefferson-representation-dance-music/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0049",
+    "to": "CTL-E-0169",
+    "type": "recorded_for",
+    "evidence": "As Mr. Fingers, Larry Heard released 'Washing Machine' / 'Can You Feel It' (1986) on Trax Records (catalog TX127).",
+    "source": "https://www.discogs.com/release/1948-Mr-Fingers-Washing-Machine-Can-You-Feel-It",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0054",
+    "to": "CTL-E-0169",
+    "type": "recorded_for",
+    "evidence": "Phuture's 'Acid Tracks' (1987), co-created by DJ Pierre (Nathaniel Pierre Jones) as a member of Phuture, was released on Trax Records.",
+    "source": "https://aboveboarddist.co.uk/phuture-acid-tracks-limited-splattered-vinyl-repress-trax/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0029",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Jamal's breakthrough 'At the Pershing' (1958) was released on Argo; Argo was the jazz subsidiary of Chess Records (the Chess brothers signed Jamal to Argo, as documented by All About Jazz and DownBeat).",
+    "source": "https://www.allaboutjazz.com/ahmad-jamal-an-american-classic",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0030",
+    "to": "CTL-E-0165",
+    "type": "recorded_for",
+    "evidence": "Lewis's 'The In Crowd' (1965) was released on Argo, with later hits on Cadet; both were Chess Records subsidiaries (Argo renamed Cadet in 1965), and his Grammy history lists the label as Argo/Chess.",
+    "source": "https://downbeat.com/news/detail/review-ramsey-lewis-gentleman-of-jazz",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0004",
+    "to": "CTL-E-0131",
+    "type": "performed_at",
+    "evidence": "A profile of Taylor notes the Checkerboard Lounge was one of her favorite Chicago clubs and that she played those South Side clubs with her band, the Blues Machine. Single source; marked provisional.",
+    "source": "http://www.elsewhere.co.nz/blues/3928/koko-taylor-1928-2009-the-queen-from-chi-town/",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0046",
+    "to": "CTL-E-0135",
+    "type": "played",
+    "evidence": "The City of Chicago's Warehouse landmark designation report states that after leaving the Warehouse in 1982/83, Knuckles established his own club, the Power Plant, at 1015 N. Halsted St., where he continued to DJ until 1986.",
+    "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0158",
+    "to": "CTL-E-0121",
+    "type": "has_alumnus",
+    "evidence": "Sam Cooke attended Wendell Phillips High School; the 2011 Sam Cooke Way street-naming account states he graduated from Phillips in 1948.",
+    "source": "https://news.theurbanmusicscene.com/2011/06/sam-cooke-honored-in-chicago-street-naming-ceremony-sam-cooke-way/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0157",
+    "to": "CTL-E-0024",
+    "type": "has_alumnus",
+    "evidence": "The JazzTimes obituary for Abrams states that he attended DuSable High School, dropping out in 1946 to pursue music.",
+    "source": "https://www.jazztimes.com/features/tributes-and-obituaries/muhal-richard-abrams-dies-87/?v=a672068055fa",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0158",
+    "to": "CTL-E-0114",
+    "type": "has_alumnus",
+    "evidence": "Brooks attended Hyde Park High School, then transferred to the all-Black Wendell Phillips High School before finishing at Englewood; Phillips' notable-alumni list records Gwendolyn Brooks as attended.",
+    "source": "http://en.wikipedia.org/wiki/Gwendolyn_Brooks",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0158",
+    "to": "CTL-E-0021",
+    "type": "has_alumnus",
+    "evidence": "Newcity reports Nathaniel Adams Cole attended Wendell Phillips High School in 1934, dropping out at 15 to pursue music; he separately participated in Walter Dyett's music program at DuSable, so both school ties coexist.",
+    "source": "http://music.newcity.com/2024/05/29/an-unforgettable-discovery-the-story-behind-the-nat-king-cole-live-at-the-blue-note-chicago-tapes/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0158",
+    "to": "CTL-E-0111",
+    "type": "has_alumnus",
+    "evidence": "Harsh's biography lists Wendell Phillips Academy High School in her education, and Phillips' alumni list records Vivian G. Harsh (1909). Both sources are Wikipedia articles; marked provisional pending an independent source.",
+    "source": "https://en.wikipedia.org/wiki/Wendell_Phillips_Academy_High_School",
+    "verification": "Provisional"
+  },
+  {
+    "from": "CTL-E-0082",
+    "to": "CTL-E-0291",
+    "type": "affiliated_with",
+    "evidence": "The Congressional Record identifies Fred Hampton as chairman of the Illinois Chapter of the Black Panther Party.",
+    "source": "https://www.congress.gov/congressional-record/volume-166/issue-205/extensions-of-remarks-section/article/E1087-2",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0080",
+    "to": "CTL-E-0291",
+    "type": "affiliated_with",
+    "evidence": "Digital Chicago History's exhibit and contemporary FBI records identify Bobby Rush as co-founder and deputy minister of defense of the Illinois Chapter of the Black Panther Party.",
+    "source": "https://digitalchicagohistory.org/exhibits/show/fred-hampton-50th/the-illinois-black-panther-par",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0083",
+    "to": "CTL-E-0289",
+    "type": "affiliated_with",
+    "evidence": "Rainbow PUSH Coalition's official biography identifies Rev. Jesse Jackson Sr. as the organization's founder and president.",
+    "source": "https://www.rainbowpush.org/rev-jesse-jackson-bio",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0001",
+    "to": "CTL-E-0215",
+    "type": "associated_with",
+    "evidence": "Preservation Chicago and the Chicago Sun-Times document Waters's longtime home at 4339 S. Lake Park Ave. in North Kenwood, where he lived from 1954 to 1973; the house is now a designated Chicago landmark.",
+    "source": "https://www.preservationchicago.org/win-muddy-waters-house-recommended-to-city-council-for-landmark-status/",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0121",
+    "to": "CTL-E-0205",
+    "type": "associated_with",
+    "evidence": "Coverage of the Sam Cooke Way street naming places the Cooke family homes (3527 Cottage Grove Ave. and 724 E. 36th St.) in Chicago's Bronzeville neighborhood, where the family settled after migrating from Clarksdale, Mississippi.",
+    "source": "https://www.antimusic.com/news/11/june/13Sam_Cooke_To_Get_His_Own_Street.shtml",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0023",
+    "to": "CTL-E-0224",
+    "type": "associated_with",
+    "evidence": "William Sites' 'Sun Ra's Chicago' (University of Chicago Press) documents that Sun Ra lived on Chicago's South Side from 1946 to 1961, where he relaunched his career and formed the Arkestra.",
+    "source": "https://bookshop.org/p/books/sun-ra-s-chicago-afrofuturism-and-the-city-william-sites/3c39906a61a860e5?ean=9780226732077&ref=&source=IndieBound&title=",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0043",
+    "to": "CTL-E-0166",
+    "type": "recorded_for",
+    "evidence": "\"Oh What a Nite\" (1954) released on Vee-Jay Records.",
+    "source": "Vee-Jay Records discography; Rock and Roll Hall of Fame",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0044",
+    "to": "CTL-E-0166",
+    "type": "recorded_for",
+    "evidence": "\"Goodnite, Sweetheart, Goodnite\" (1954) released on Vee-Jay Records.",
+    "source": "Vee-Jay Records discography; Vocal Group Hall of Fame",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0045",
+    "to": "CTL-E-0174",
+    "type": "recorded_for",
+    "evidence": "Early singles including \"Someday, Someway\" (1953) released on Chance Records.",
+    "source": "Chance Records discography; Vocal Group Hall of Fame",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0202",
+    "to": "CTL-E-0204",
+    "type": "archived_at",
+    "evidence": "The Harsh Collection is housed at the Carter G. Woodson Regional Library.",
+    "source": "Chicago Public Library",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0086",
+    "to": "CTL-E-0264",
+    "type": "initiated",
+    "evidence": "Johnson founded Ebony magazine; first issue published November 1945.",
+    "source": "Johnson Publishing Company history; Ebony",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0107",
+    "to": "CTL-E-0265",
+    "type": "initiated",
+    "evidence": "Burroughs co-founded the DuSable Museum of African American History in 1961.",
+    "source": "DuSable Museum of African American History",
+    "verification": "Verified"
+  },
+  {
+    "from": "CTL-E-0122",
+    "to": "CTL-E-0136",
+    "type": "performed_at",
+    "evidence": "Gregory performed at Roberts Show Lounge in the early 1960s, where Hugh Hefner first saw him.",
+    "source": "Biographical accounts; Roberts Show Lounge history",
+    "verification": "Verified"
+  }
+]

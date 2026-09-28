@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: CTL Black Cultural Knowledge Graph — Seed (CTL-KG-CORE-001)
+message: "If you use this work, please cite it as below."
+authors:
+  - name: "CultureTechLens NFP"
+date-released: 2026-09-28
+url: "https://github.com/culturetechlens/culturetechlens-knowledge-graph"
+license: CC-BY-4.0

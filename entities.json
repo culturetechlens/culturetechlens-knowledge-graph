@@ -1,0 +1,7051 @@
+[
+  {
+    "id": "CTL-E-0001",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Muddy Waters",
+    "aliases": [
+      "McKinley Morganfield"
+    ],
+    "description": "Chicago blues bandleader and singer whose electric blues helped shape rock and roll.",
+    "era": "1940s–1980s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Muddy Waters",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0002",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Howlin' Wolf",
+    "aliases": [
+      "Chester Burnett"
+    ],
+    "description": "Blues singer and harmonica player with a commanding voice; Chess Records star.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Howlin' Wolf",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0003",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Willie Dixon",
+    "aliases": [],
+    "description": "Bassist, songwriter, and producer who wrote many of the Chess Records blues standards.",
+    "era": "1940s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Blues Hall of Fame: Willie Dixon",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0004",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Koko Taylor",
+    "aliases": [
+      "Queen of the Blues"
+    ],
+    "description": "Blues singer known as the 'Queen of the Blues' and for her hit 'Wang Dang Doodle'.",
+    "era": "1960s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune obituary coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0005",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Buddy Guy",
+    "aliases": [],
+    "description": "Blues guitarist and singer; mentor to generations of rock and blues guitarists.",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0006",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Junior Wells",
+    "aliases": [],
+    "description": "Blues harmonica player and singer; longtime musical partner of Buddy Guy.",
+    "era": "1950s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Blues Hall of Fame: Junior Wells",
+        "primary": true
+      },
+      {
+        "citation": "Illinois Entertainer: 'Junior Wells: Live At Theresa's'",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0007",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Little Walter",
+    "aliases": [
+      "Marion Walter Jacobs"
+    ],
+    "description": "Revolutionary blues harmonica player; member of the Muddy Waters band.",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Little Walter",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0008",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Otis Spann",
+    "aliases": [],
+    "description": "Blues pianist; longtime member of Muddy Waters' band.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Blues Hall of Fame: Otis Spann",
+        "primary": true
+      },
+      {
+        "citation": "Britannica: Otis Spann",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0009",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Memphis Minnie",
+    "aliases": [
+      "Lizzie Douglas"
+    ],
+    "description": "Pioneering blues singer, guitarist, and songwriter of the pre-war and Chicago eras.",
+    "era": "1930s–1950s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Smithsonian National Museum of African American History and Culture",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0010",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Big Bill Broonzy",
+    "aliases": [],
+    "description": "Blues singer and guitarist who bridged country blues and urban Chicago blues.",
+    "era": "1930s–1950s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Britannica: Big Bill Broonzy",
+        "primary": false
+      },
+      {
+        "citation": "Blues Hall of Fame: Big Bill Broonzy",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0011",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Jimmy Reed",
+    "aliases": [],
+    "description": "Blues singer, guitarist, and harmonica player; hitmaker for Vee-Jay Records.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Jimmy Reed",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0012",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Otis Rush",
+    "aliases": [],
+    "description": "Blues guitarist and singer known for his searing West Side guitar style.",
+    "era": "1950s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Blues Hall of Fame: Otis Rush",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0013",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Elmore James",
+    "aliases": [],
+    "description": "Slide guitarist and singer famed for 'Dust My Broom'; influential in Chicago blues.",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Elmore James",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0014",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Sonny Boy Williamson II",
+    "aliases": [
+      "Rice Miller"
+    ],
+    "description": "Blues harmonica player, singer, and songwriter; Chess recording artist.",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Blues Hall of Fame: Sonny Boy Williamson II",
+        "primary": true
+      },
+      {
+        "citation": "Britannica: Sonny Boy Williamson II",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0015",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Magic Sam",
+    "aliases": [
+      "Sam Maghett"
+    ],
+    "description": "West Side blues guitarist known for his distinctive tremolo-laden style.",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Blues Hall of Fame: Magic Sam",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0016",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Mahalia Jackson",
+    "aliases": [
+      "Queen of Gospel"
+    ],
+    "description": "Gospel singer whose career carried the music from the church to concert halls worldwide.",
+    "era": "1930s–1970s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Smithsonian National Museum of African American History and Culture",
+        "primary": true
+      },
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0017",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Thomas A. Dorsey",
+    "aliases": [
+      "Father of Gospel Music",
+      "Georgia Tom"
+    ],
+    "description": "Composer and pianist who created modern gospel music in Chicago.",
+    "era": "1930s–1980s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum: Thomas A. Dorsey collection",
+        "primary": true
+      },
+      {
+        "citation": "Britannica: Thomas Dorsey",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0018",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Sallie Martin",
+    "aliases": [],
+    "description": "Gospel singer and organizer who co-founded the National Convention of Gospel Choirs and Choruses.",
+    "era": "1930s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Smithsonian National Museum of African American History and Culture",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0019",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Roberta Martin",
+    "aliases": [],
+    "description": "Gospel singer, pianist, and songwriter who led the Roberta Martin Singers.",
+    "era": "1940s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Gospel Music Hall of Fame: Roberta Martin",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0020",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Rev. James Cleveland",
+    "aliases": [
+      "James Cleveland",
+      "King of Gospel"
+    ],
+    "description": "Gospel singer, pianist, and choir director central to the modern gospel sound.",
+    "era": "1950s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: James Cleveland",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0021",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Nat King Cole",
+    "aliases": [
+      "Nathaniel Adams Coles"
+    ],
+    "description": "Pianist and singer who rose from Chicago's South Side jazz scene to international stardom.",
+    "era": "1930s–1960s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Nat King Cole",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0022",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Dinah Washington",
+    "aliases": [
+      "Queen of the Blues",
+      "Ruth Lee Jones"
+    ],
+    "description": "Jazz and R&B singer known as the 'Queen of the Blues'.",
+    "era": "1940s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Dinah Washington",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0023",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Sun Ra",
+    "aliases": [
+      "Herman Blount"
+    ],
+    "description": "Avant-garde jazz bandleader, composer, and philosopher who developed his Arkestra in Chicago.",
+    "era": "1950s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Smithsonian Jazz: Sun Ra",
+        "primary": true
+      },
+      {
+        "citation": "NPR retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0024",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Muhal Richard Abrams",
+    "aliases": [],
+    "description": "Pianist, composer, and co-founder of the Association for the Advancement of Creative Musicians (AACM).",
+    "era": "1960s–2010s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR obituary/retrospective",
+        "primary": false
+      },
+      {
+        "citation": "The New York Times obituary",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0025",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Anthony Braxton",
+    "aliases": [],
+    "description": "Composer and multi-instrumentalist; key figure of the AACM avant-garde.",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR artist profile",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Anthony Braxton",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0026",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Henry Threadgill",
+    "aliases": [],
+    "description": "Composer and saxophonist; Pulitzer-winning member of the AACM generation.",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Pulitzer.org winner profile",
+        "primary": true
+      },
+      {
+        "citation": "NPR artist profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0027",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Gene Ammons",
+    "aliases": [
+      "Jug"
+    ],
+    "description": "Tenor saxophonist central to Chicago jazz and soul jazz.",
+    "era": "1940s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Britannica: Gene Ammons",
+        "primary": false
+      },
+      {
+        "citation": "NPR jazz profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0028",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Von Freeman",
+    "aliases": [
+      "Vonski"
+    ],
+    "description": "Tenor saxophonist and mentor figure in Chicago jazz for over six decades.",
+    "era": "1950s–2010s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune obituary",
+        "primary": false
+      },
+      {
+        "citation": "NPR obituary",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0029",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Ahmad Jamal",
+    "aliases": [],
+    "description": "Pianist whose trio's live 'At the Pershing' became a landmark Chicago jazz recording.",
+    "era": "1950s–2020s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR obituary/retrospective",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Ahmad Jamal",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0030",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Ramsey Lewis",
+    "aliases": [],
+    "description": "Jazz pianist whose trio brought Chicago jazz to pop audiences.",
+    "era": "1950s–2020s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "NPR retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0031",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Curtis Mayfield",
+    "aliases": [],
+    "description": "Singer, songwriter, and producer; voice of The Impressions and socially conscious soul.",
+    "era": "1960s–1990s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Curtis Mayfield",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0032",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Jerry Butler",
+    "aliases": [
+      "The Iceman"
+    ],
+    "description": "Singer and songwriter; original lead singer of The Impressions and solo star.",
+    "era": "1960s–2020s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0033",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Gene Chandler",
+    "aliases": [
+      "The Duke of Earl"
+    ],
+    "description": "Singer known for 'Duke of Earl' and a long Chicago soul career.",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Gene Chandler",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0034",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Major Lance",
+    "aliases": [],
+    "description": "Soul singer of 'The Monkey Time' and other Curtis Mayfield-written hits.",
+    "era": "1960s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      },
+      {
+        "citation": "SoulMusic.com / AllMusic biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0035",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Chaka Khan",
+    "aliases": [
+      "Queen of Funk"
+    ],
+    "description": "Singer who rose with Rufus and became a defining voice of funk and R&B.",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0036",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Donny Hathaway",
+    "aliases": [],
+    "description": "Singer, songwriter, and arranger whose soul recordings remain deeply influential.",
+    "era": "1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "NPR retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0037",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Minnie Riperton",
+    "aliases": [],
+    "description": "Singer famed for her five-octave range and the hit 'Lovin' You'.",
+    "era": "1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0038",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Impressions",
+    "aliases": [],
+    "description": "Vocal group whose harmonies carried the civil rights-era soul message.",
+    "era": "1960s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: The Impressions",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0039",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Staple Singers",
+    "aliases": [
+      "The Staples"
+    ],
+    "description": "Family gospel-soul group led by Roebuck 'Pops' Staples.",
+    "era": "1950s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: The Staple Singers",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0040",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Chi-Lites",
+    "aliases": [],
+    "description": "Chicago soul vocal group known for lush harmonies and hits like 'Oh Girl'.",
+    "era": "1970s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: The Chi-Lites",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0041",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Emotions",
+    "aliases": [],
+    "description": "Sister vocal group known for 'Best of My Love' and their Stax recordings.",
+    "era": "1970s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: The Emotions",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0042",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Tyrone Davis",
+    "aliases": [],
+    "description": "Soul singer known for 'Can I Change My Mind' and 'Turn Back the Hands of Time'.",
+    "era": "1960s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune obituary/retrospective",
+        "primary": false
+      },
+      {
+        "citation": "AllMusic biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0043",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Dells",
+    "aliases": [],
+    "description": "Harvey, Illinois vocal group with a career spanning six decades of R&B.",
+    "era": "1950s–2010s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0044",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Spaniels",
+    "aliases": [],
+    "description": "Doo-wop group from Roosevelt High School; recorded 'Goodnite, Sweetheart, Goodnite'.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Vocal Group Hall of Fame inductee biography",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0045",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Flamingos",
+    "aliases": [],
+    "description": "Doo-wop group famed for 'I Only Have Eyes for You'; formed on Chicago's South Side.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: The Flamingos",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0046",
+    "type": "Person",
+    "subtype": "dj",
+    "name": "Frankie Knuckles",
+    "aliases": [
+      "Godfather of House"
+    ],
+    "description": "DJ and producer known as the 'Godfather of House Music'; resident at the Warehouse.",
+    "era": "1980s–2010s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum: house music collection",
+        "primary": true
+      },
+      {
+        "citation": "NPR obituary/retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0047",
+    "type": "Person",
+    "subtype": "dj",
+    "name": "Ron Hardy",
+    "aliases": [],
+    "description": "DJ whose residency at the Music Box defined the harder edge of early house.",
+    "era": "1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      },
+      {
+        "citation": "NPR house music history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0048",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Marshall Jefferson",
+    "aliases": [],
+    "description": "Producer of 'Move Your Body,' the anthem of Chicago house music.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR house music profile",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0049",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Larry Heard",
+    "aliases": [
+      "Mr. Fingers"
+    ],
+    "description": "Producer known as Mr. Fingers; pioneer of deep house.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR deep house profile",
+        "primary": false
+      },
+      {
+        "citation": "Resident Advisor biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0050",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Steve \"Silk\" Hurley",
+    "aliases": [
+      "Steve Hurley",
+      "Silk"
+    ],
+    "description": "House producer and remixer behind 'Jack Your Body'.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Billboard artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0051",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Farley \"Jackmaster\" Funk",
+    "aliases": [
+      "Farley Keith"
+    ],
+    "description": "DJ and producer; early house hitmaker with 'Love Can't Turn Around'.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      },
+      {
+        "citation": "5 Magazine house music history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0052",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Jesse Saunders",
+    "aliases": [],
+    "description": "DJ and producer credited with the first house record, 'On and On'.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum: house music collection",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0053",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Lil Louis",
+    "aliases": [
+      "Marvin Louis Burns"
+    ],
+    "description": "DJ and producer known for the 1989 hit 'French Kiss'.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR house music profile",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0054",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "DJ Pierre",
+    "aliases": [
+      "Nathaniel Pierre Jones"
+    ],
+    "description": "Producer and co-creator of the acid house sound with Phuture's 'Acid Tracks'.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR acid house profile",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0055",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Jamie Principle",
+    "aliases": [],
+    "description": "Singer-songwriter whose 'Your Love' became a foundational house music record.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Library of Congress National Recording Registry essay (2026 selection)",
+        "primary": true
+      },
+      {
+        "citation": "5 Magazine house music history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0056",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Common",
+    "aliases": [
+      "Lonnie Lynn",
+      "Common Sense"
+    ],
+    "description": "Rapper and actor; a defining voice of conscious Chicago hip-hop.",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0057",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Kanye West",
+    "aliases": [
+      "Ye"
+    ],
+    "description": "Rapper and producer whose early work redefined Chicago hip-hop's sound.",
+    "era": "2000s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Britannica: Kanye West",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0058",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Chance the Rapper",
+    "aliases": [
+      "Chancelor Bennett"
+    ],
+    "description": "Independent rapper known for 'Acid Rap' and 'Coloring Book'.",
+    "era": "2010s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0059",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Twista",
+    "aliases": [
+      "Carl Mitchell",
+      "Tung Twista"
+    ],
+    "description": "Rapper known for rapid-fire delivery and the hit 'Slow Jamz'.",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Billboard artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0060",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Lupe Fiasco",
+    "aliases": [
+      "Wasalu Jaco"
+    ],
+    "description": "Rapper known for literate lyricism and the album 'Food & Liquor'.",
+    "era": "2000s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      },
+      {
+        "citation": "NPR artist profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0061",
+    "type": "Person",
+    "subtype": "group",
+    "name": "Do or Die",
+    "aliases": [],
+    "description": "West Side rap trio known for 'Po Pimp' and rapid-fire flow.",
+    "era": "1990s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Billboard artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0062",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Rhymefest",
+    "aliases": [
+      "Che Smith"
+    ],
+    "description": "Rapper and songwriter; co-writer of Kanye West's 'Jesus Walks'.",
+    "era": "2000s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com songwriter profile",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0063",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "No I.D.",
+    "aliases": [
+      "Dion Wilson"
+    ],
+    "description": "Producer and mentor behind Common and the early work of Kanye West.",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR producer profile",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0064",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Chief Keef",
+    "aliases": [
+      "Keith Cozart"
+    ],
+    "description": "Rapper whose 'I Don't Like' launched the drill music movement.",
+    "era": "2010s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune profile",
+        "primary": false
+      },
+      {
+        "citation": "NPR drill music coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0065",
+    "type": "Person",
+    "subtype": "group",
+    "name": "Crucial Conflict",
+    "aliases": [],
+    "description": "West Side rap group known for 'Hay' and country-inflected hip-hop.",
+    "era": "1990s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Billboard artist biography",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0066",
+    "type": "Person",
+    "subtype": "producer",
+    "name": "Maurice White",
+    "aliases": [],
+    "description": "Drummer, singer, and producer; founder of Earth, Wind & Fire.",
+    "era": "1960s–2010s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "GRAMMY.com obituary",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0067",
+    "type": "Person",
+    "subtype": "group",
+    "name": "Earth, Wind & Fire",
+    "aliases": [
+      "EWF"
+    ],
+    "description": "Band whose fusion of funk, soul, and jazz made them global stars.",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Rock & Roll Hall of Fame inductee biography",
+        "primary": false
+      },
+      {
+        "citation": "GRAMMY.com artist biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0068",
+    "type": "Person",
+    "subtype": "other",
+    "name": "Vivian Carter",
+    "aliases": [],
+    "description": "Co-founder of Vee-Jay Records, the pioneering Black-owned Chicago label.",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum: Vee-Jay Records history",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0069",
+    "type": "Person",
+    "subtype": "dj",
+    "name": "Herb Kent",
+    "aliases": [
+      "The Cool Gent"
+    ],
+    "description": "WVON radio DJ whose 'Cool Gent' show shaped Chicago R&B listening for decades.",
+    "era": "1950s–2010s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Tribune obituary",
+        "primary": false
+      },
+      {
+        "citation": "NPR obituary",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0070",
+    "type": "Person",
+    "subtype": "other",
+    "name": "Lena McLin",
+    "aliases": [
+      "Lena Mae Johnson"
+    ],
+    "description": "Gospel composer, pianist, and longtime Chicago public school music educator.",
+    "era": "1960s–2010s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Cook County Board resolution honoring Dr. Lena J. McLin (2019)",
+        "primary": true
+      },
+      {
+        "citation": "The HistoryMakers oral history interview",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0071",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Oscar De Priest",
+    "aliases": [
+      "Oscar Stanton De Priest"
+    ],
+    "description": "First Black U.S. congressman elected from the North, representing Chicago's South Side.",
+    "era": "1920s–1930s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Biographical Directory of the United States Congress",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0072",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "William L. Dawson",
+    "aliases": [
+      "William Levi Dawson"
+    ],
+    "description": "Long-serving Chicago congressman and South Side political power broker.",
+    "era": "1930s–1960s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Biographical Directory of the United States Congress",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0073",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Ralph Metcalfe",
+    "aliases": [
+      "Ralph Harold Metcalfe"
+    ],
+    "description": "Olympic sprinter turned Chicago alderman and U.S. congressman.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Biographical Directory of the United States Congress",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0074",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Harold Washington",
+    "aliases": [
+      "Harold Lee Washington"
+    ],
+    "description": "First Black mayor of Chicago.",
+    "era": "1970s–1980s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum - Harold Washington archives",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0075",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Carol Moseley Braun",
+    "aliases": [],
+    "description": "First Black woman elected to the U.S. Senate; former Illinois legislator.",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Biographical Directory of the United States Congress",
+        "primary": true
+      },
+      {
+        "citation": "U.S. Senate Historical Office",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0076",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Dorothy Tillman",
+    "aliases": [],
+    "description": "Longtime 3rd Ward alderwoman and civil rights activist.",
+    "era": "1980s–2000s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago City Council records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0077",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Toni Preckwinkle",
+    "aliases": [],
+    "description": "Cook County Board president and former 4th Ward alderwoman.",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Cook County Board records",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0078",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Jesse White",
+    "aliases": [],
+    "description": "Longtime Illinois Secretary of State and founder of the Jesse White Tumbling Team.",
+    "era": "1990s–2020s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Illinois State Archives / Secretary of State records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0079",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Barack Obama",
+    "aliases": [
+      "Barack Hussein Obama II"
+    ],
+    "description": "Community organizer and Illinois state senator from Chicago's South Side; 44th U.S. president.",
+    "era": "1990s–2010s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Illinois State Senate records",
+        "primary": true
+      },
+      {
+        "citation": "The White House archives (Obama)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0080",
+    "type": "Person",
+    "subtype": "politician",
+    "name": "Bobby Rush",
+    "aliases": [
+      "Bobby Lee Rush"
+    ],
+    "description": "Former Illinois Black Panther Party leader; longtime U.S. congressman from Chicago.",
+    "era": "1960s–2020s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Biographical Directory of the United States Congress",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0081",
+    "type": "Person",
+    "subtype": "activist",
+    "name": "Ida B. Wells",
+    "aliases": [
+      "Ida Bell Wells-Barnett"
+    ],
+    "description": "Anti-lynching investigative journalist and civil rights organizer based in Chicago.",
+    "era": "1890s–1930s",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum of African American History archives",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0082",
+    "type": "Person",
+    "subtype": "activist",
+    "name": "Fred Hampton",
+    "aliases": [
+      "Fredrick Allen Hampton"
+    ],
+    "description": "Chairman of the Illinois Black Panther Party, killed in a 1969 Chicago police raid.",
+    "era": "1960s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0083",
+    "type": "Person",
+    "subtype": "activist",
+    "name": "Jesse Jackson Sr.",
+    "aliases": [
+      "Jesse Louis Jackson"
+    ],
+    "description": "Civil rights leader; founded Operation PUSH in Chicago.",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Operation PUSH archives",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0084",
+    "type": "Person",
+    "subtype": "activist",
+    "name": "Addie Wyatt",
+    "aliases": [
+      "Addie L. Wyatt"
+    ],
+    "description": "Labor leader, minister, and civil rights activist; first Black woman international vice president of a major U.S. union.",
+    "era": "1950s–1980s",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0085",
+    "type": "Person",
+    "subtype": "activist",
+    "name": "Mamie Till-Mobley",
+    "aliases": [
+      "Mamie Elizabeth Till-Mobley"
+    ],
+    "description": "Mother of Emmett Till; Chicago educator whose open-casket decision galvanized the civil rights movement.",
+    "era": "1950s–2000s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum of African American History archives",
+        "primary": true
+      },
+      {
+        "citation": "NPR retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0086",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "John H. Johnson",
+    "aliases": [
+      "John Harold Johnson"
+    ],
+    "description": "Founder of Johnson Publishing Company and of Ebony and Jet magazines.",
+    "era": "1940s–1980s",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Johnson Publishing Company archives",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0087",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "Anthony Overton",
+    "aliases": [],
+    "description": "Banker, manufacturer, and founder of the Chicago Bee newspaper.",
+    "era": "1900s–1920s",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0088",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "Jesse Binga",
+    "aliases": [],
+    "description": "Chicago's first Black banker; founder of Binga State Bank and Bronzeville real estate developer.",
+    "era": "1900s–1920s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0089",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "S.B. Fuller",
+    "aliases": [
+      "Samuel B. Fuller"
+    ],
+    "description": "Chicago cosmetics entrepreneur who built the Fuller Products empire.",
+    "era": "1940s–1970s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0090",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "George Johnson",
+    "aliases": [
+      "George E. Johnson"
+    ],
+    "description": "Founder of Johnson Products Company, maker of Ultra Sheen hair products.",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Johnson Products Company records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0091",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "Linda Johnson Rice",
+    "aliases": [],
+    "description": "Chair and former CEO of Johnson Publishing Company; daughter of founder John H. Johnson.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Johnson Publishing Company records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune business coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0092",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "Oprah Winfrey",
+    "aliases": [
+      "Oprah Gail Winfrey"
+    ],
+    "description": "Chicago-based media executive and philanthropist; founder of Harpo Studios.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Harpo Productions records",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0093",
+    "type": "Person",
+    "subtype": "businessperson",
+    "name": "John W. Rogers Jr.",
+    "aliases": [
+      "John Washington Rogers Jr."
+    ],
+    "description": "Founder of Ariel Investments, a pioneering Black-owned Chicago investment firm.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Ariel Investments records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune business coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0094",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Rev. Clay Evans",
+    "aliases": [
+      "Clay Evans"
+    ],
+    "description": "Founder and longtime pastor of Fellowship Missionary Baptist Church; civil rights activist.",
+    "era": "1950s–2010s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Fellowship Missionary Baptist Church records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0095",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Rev. Jeremiah Wright",
+    "aliases": [
+      "Jeremiah A. Wright Jr."
+    ],
+    "description": "Longtime pastor of Trinity United Church of Christ on Chicago's South Side.",
+    "era": "1970s–2000s",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Trinity United Church of Christ records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0096",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Bishop Arthur M. Brazier",
+    "aliases": [
+      "Arthur Melvin Brazier"
+    ],
+    "description": "Longtime pastor of Chicago's Apostolic Church of God and civic leader.",
+    "era": "1950s–2000s",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Apostolic Church of God records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0097",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Rev. George Clements",
+    "aliases": [
+      "George Harold Clements"
+    ],
+    "description": "Pastor of Holy Angels Catholic Church in Bronzeville; civil rights activist priest.",
+    "era": "1960s–2000s",
+    "project_ids": [
+      "BVM-005",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Archdiocese of Chicago records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0098",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Bishop Louis Henry Ford",
+    "aliases": [
+      "Louis H. Ford"
+    ],
+    "description": "Founder and pastor of St. Paul Church of God in Christ; presiding bishop of COGIC.",
+    "era": "1950s–1990s",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Congressional Record - Sen. Moseley-Braun tribute (congress.gov)",
+        "primary": true
+      },
+      {
+        "citation": "Church of God in Christ records",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0099",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Rev. Johnnie Colemon",
+    "aliases": [],
+    "description": "Founder of Christ Universal Temple, a major Chicago New Thought congregation.",
+    "era": "1950s–2010s",
+    "project_ids": [
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Christ Universal Temple records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0100",
+    "type": "Person",
+    "subtype": "clergy",
+    "name": "Rev. Stephen Thurston",
+    "aliases": [
+      "Stephen John Thurston"
+    ],
+    "description": "Pastor of New Covenant Missionary Baptist Church; former president of the National Baptist Convention of America.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The HistoryMakers oral history",
+        "primary": true
+      },
+      {
+        "citation": "Congressional Record (congress.gov)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0101",
+    "type": "Person",
+    "subtype": "journalist",
+    "name": "Robert S. Abbott",
+    "aliases": [
+      "Robert Sengstacke Abbott"
+    ],
+    "description": "Founder of the Chicago Defender newspaper.",
+    "era": "1900s–1930s",
+    "project_ids": [
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Defender archives",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0102",
+    "type": "Person",
+    "subtype": "journalist",
+    "name": "Ethel Payne",
+    "aliases": [
+      "Ethel Lois Payne"
+    ],
+    "description": "Chicago Defender Washington correspondent known as the 'First Lady of the Black Press.'",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Defender archives",
+        "primary": true
+      },
+      {
+        "citation": "NPR retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0103",
+    "type": "Person",
+    "subtype": "journalist",
+    "name": "Vernon Jarrett",
+    "aliases": [],
+    "description": "Pioneering Black columnist for the Chicago Defender, Chicago Tribune, and Chicago Sun-Times.",
+    "era": "1940s–2000s",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The HistoryMakers oral history",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune archives",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0104",
+    "type": "Person",
+    "subtype": "journalist",
+    "name": "Lu Palmer",
+    "aliases": [
+      "Lutrelle Fleming Palmer Jr."
+    ],
+    "description": "Chicago journalist, columnist, and Black political organizer; founder of Chicago Black United Communities.",
+    "era": "1960s–2000s",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The HistoryMakers oral history",
+        "primary": true
+      },
+      {
+        "citation": "Congressional Record (congress.gov)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0105",
+    "type": "Person",
+    "subtype": "journalist",
+    "name": "John H. Sengstacke",
+    "aliases": [
+      "John Herman Henry Sengstacke"
+    ],
+    "description": "Publisher of the Chicago Defender; nephew of founder Robert S. Abbott.",
+    "era": "1940s–1990s",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Defender archives",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0106",
+    "type": "Person",
+    "subtype": "journalist",
+    "name": "Claude A. Barnett",
+    "aliases": [
+      "Claude Albert Barnett"
+    ],
+    "description": "Founder of the Associated Negro Press, the Chicago-based Black wire service.",
+    "era": "1910s–1960s",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Associated Negro Press records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0107",
+    "type": "Person",
+    "subtype": "educator",
+    "name": "Dr. Margaret Burroughs",
+    "aliases": [
+      "Margaret Taylor-Burroughs",
+      "Margaret Taylor Goss Burroughs"
+    ],
+    "description": "Artist-educator who co-founded the DuSable Museum of African American History.",
+    "era": "1940s–2000s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum of African American History archives",
+        "primary": true
+      },
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0108",
+    "type": "Person",
+    "subtype": "educator",
+    "name": "Dr. Timuel Black",
+    "aliases": [
+      "Timuel Dixon Black Jr."
+    ],
+    "description": "Chicago educator, historian, and civil rights activist.",
+    "era": "1950s–2020s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum oral history collections",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0109",
+    "type": "Person",
+    "subtype": "educator",
+    "name": "Dr. Carol Adams",
+    "aliases": [],
+    "description": "Educator; former president and CEO of the DuSable Museum.",
+    "era": "2000s–2010s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum of African American History records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0110",
+    "type": "Person",
+    "subtype": "educator",
+    "name": "Fannie Barrier Williams",
+    "aliases": [],
+    "description": "Chicago educator, clubwoman, and civil rights reformer; helped found Provident Hospital.",
+    "era": "1890s–1920s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "BlackPast.org",
+        "primary": false
+      },
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0111",
+    "type": "Person",
+    "subtype": "educator",
+    "name": "Vivian G. Harsh",
+    "aliases": [
+      "Vivian Gordon Harsh"
+    ],
+    "description": "Chicago's first Black librarian; built the Hall Branch's landmark Black history collection.",
+    "era": "1920s–1950s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Library - Vivian G. Harsh Research Collection",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0112",
+    "type": "Person",
+    "subtype": "scholar",
+    "name": "Dr. St. Clair Drake",
+    "aliases": [
+      "John Gibbs St. Clair Drake"
+    ],
+    "description": "Anthropologist; co-author of Black Metropolis, the landmark study of Bronzeville.",
+    "era": "1940s–1960s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Roosevelt University records",
+        "primary": true
+      },
+      {
+        "citation": "Stanford University - MLK Institute archives",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0113",
+    "type": "Person",
+    "subtype": "scholar",
+    "name": "Dr. Christopher Robert Reed",
+    "aliases": [],
+    "description": "Historian of Black Chicago; longtime Roosevelt University professor.",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Roosevelt University faculty records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune book coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0114",
+    "type": "Person",
+    "subtype": "writer",
+    "name": "Gwendolyn Brooks",
+    "aliases": [
+      "Gwendolyn Elizabeth Brooks"
+    ],
+    "description": "Pulitzer Prize-winning poet of Bronzeville; first Black Pulitzer winner.",
+    "era": "1940s–1980s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Library of Congress / Poet Laureate records",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0115",
+    "type": "Person",
+    "subtype": "writer",
+    "name": "Lorraine Hansberry",
+    "aliases": [],
+    "description": "Playwright of A Raisin in the Sun; raised on Chicago's South Side.",
+    "era": "1950s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Library of Congress collections",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0116",
+    "type": "Person",
+    "subtype": "writer",
+    "name": "Richard Wright",
+    "aliases": [],
+    "description": "Author of Native Son and Black Boy; came of age on Chicago's South Side.",
+    "era": "1930s–1940s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Library of Congress collections",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0117",
+    "type": "Person",
+    "subtype": "writer",
+    "name": "Haki Madhubuti",
+    "aliases": [
+      "Don L. Lee"
+    ],
+    "description": "Poet, educator, and founder of Third World Press in Chicago.",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Third World Press records",
+        "primary": true
+      },
+      {
+        "citation": "Chicago State University records",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0118",
+    "type": "Person",
+    "subtype": "writer",
+    "name": "Willard Motley",
+    "aliases": [
+      "Willard Francis Motley"
+    ],
+    "description": "Chicago novelist; author of Knock on Any Door.",
+    "era": "1940s–1960s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum collections",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0119",
+    "type": "Person",
+    "subtype": "writer",
+    "name": "Dempsey Travis",
+    "aliases": [],
+    "description": "Bronzeville real estate developer and historian; author of Black Chicago histories.",
+    "era": "1950s–1990s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum of African American History archives",
+        "primary": true
+      },
+      {
+        "citation": "Chicago Tribune retrospective coverage",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0120",
+    "type": "Person",
+    "subtype": "other",
+    "name": "Dr. Daniel Hale Williams",
+    "aliases": [],
+    "description": "Surgeon who founded Provident Hospital, the first Black-owned hospital in the United States.",
+    "era": "1890s–1920s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Provident Hospital founding records",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago (Chicago History Museum)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0121",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Sam Cooke",
+    "aliases": [
+      "Samuel Cook"
+    ],
+    "description": "Soul singer and songwriter who began with the Soul Stirrers gospel quartet before pioneering soul music",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Sam Cooke",
+        "primary": false
+      },
+      {
+        "citation": "Rock & Roll Hall of Fame: Sam Cooke biography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0122",
+    "type": "Person",
+    "subtype": "activist",
+    "name": "Dick Gregory",
+    "aliases": [],
+    "description": "Comedian and civil-rights activist; ran for mayor of Chicago in 1967",
+    "era": "1960s–2010s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Dick Gregory",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune obituary, August 2017",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0123",
+    "type": "Person",
+    "subtype": "group",
+    "name": "The Five Stairsteps",
+    "aliases": [
+      "5 Stairsteps"
+    ],
+    "description": "Chicago soul family group known for the 1970 hit 'O-o-h Child'",
+    "era": "1960s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Five Stairsteps",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0124",
+    "type": "Person",
+    "subtype": "musician",
+    "name": "Oscar Brown Jr.",
+    "aliases": [],
+    "description": "Chicago singer, songwriter, and playwright",
+    "era": "1960s–2000s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Oscar Brown Jr.",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Tribune obituary, May 2005",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0125",
+    "type": "Venue",
+    "subtype": "theater",
+    "name": "Regal Theater",
+    "aliases": [
+      "4719 South Parkway",
+      "The Regal"
+    ],
+    "description": "Landmark South Side movie palace and stage that headlined the biggest Black entertainers of its day",
+    "era": "1928–1968",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Regal Theater",
+        "primary": false
+      },
+      {
+        "citation": "Encyclopedia of Chicago: Regal Theater",
+        "primary": false
+      },
+      {
+        "citation": "City Landmark Report: New Regal Theater",
+        "primary": true
+      }
+    ],
+    "notes": "4719 S. Parkway (now Martin Luther King Jr. Drive); opened February 4, 1928; closed 1968; demolished 1973."
+  },
+  {
+    "id": "CTL-E-0126",
+    "type": "Venue",
+    "subtype": "ballroom",
+    "name": "Savoy Ballroom",
+    "aliases": [
+      "4733 South Parkway"
+    ],
+    "description": "Bronzeville dance hall celebrated as the 'World's Finest Ballroom' for Black dancers",
+    "era": "1920s–1940s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago — Savoy Ballroom",
+        "primary": false
+      },
+      {
+        "citation": "Jazz Age Chicago: Savoy Ballroom",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Savoy Ballroom (Chicago)",
+        "primary": false
+      }
+    ],
+    "notes": "4733 S. Parkway (now Martin Luther King Jr. Drive); opened November 23, 1927; closing year disputed (1948 vs 1954)."
+  },
+  {
+    "id": "CTL-E-0127",
+    "type": "Venue",
+    "subtype": "ballroom",
+    "name": "Parkway Ballroom",
+    "aliases": [],
+    "description": "Bronzeville ballroom that hosted dances, big-band acts, and community events",
+    "era": "1940s–1970s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "BVM-005"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Documented in Chicago nightlife histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0128",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Club DeLisa",
+    "aliases": [
+      "State Street and Garfield Boulevard (approximate)"
+    ],
+    "description": "Famed Bronzeville nightclub whose floor shows starred Black entertainers",
+    "era": "1930s–1950s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago — Club DeLisa",
+        "primary": false
+      },
+      {
+        "citation": "African American Registry: Club DeLisa opens",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Club DeLisa",
+        "primary": false
+      }
+    ],
+    "notes": "Site near 55th and State Streets; exact street number disputed across sources (5512–5516 vs 5521 S. State). Closed February 16, 1958."
+  },
+  {
+    "id": "CTL-E-0129",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Rhumboogie Cafe",
+    "aliases": [
+      "Rhumboogie"
+    ],
+    "description": "Bronzeville nightclub owned by Charlie Glenn; hosted Charlie Parker and T-Bone Walker",
+    "era": "1940s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago jazz histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0130",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Grand Terrace Cafe",
+    "aliases": [],
+    "description": "Bronzeville nightclub where Earl Hines's orchestra held long residencies",
+    "era": "1930s–1940s",
+    "project_ids": [
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago jazz histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0131",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Checkerboard Lounge",
+    "aliases": [],
+    "description": "South Side blues club long associated with Buddy Guy",
+    "era": "1970s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago blues histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0132",
+    "type": "Venue",
+    "subtype": "lounge",
+    "name": "Theresa's Lounge",
+    "aliases": [
+      "Theresa's"
+    ],
+    "description": "Intimate South Side blues lounge run by Theresa Needham, a haunt of Chess bluesmen",
+    "era": "1940s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago blues histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0133",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Kingston Mines",
+    "aliases": [],
+    "description": "Long-running Chicago blues club presenting live blues nightly",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Venue's published history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0134",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "The Warehouse",
+    "aliases": [
+      "The Warehouse Chicago"
+    ],
+    "description": "The nightclub widely credited as the birthplace of house music",
+    "era": "1970s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in house-music histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0135",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Power Plant",
+    "aliases": [],
+    "description": "House-music club that carried the Warehouse sound into the late 1980s",
+    "era": "1980s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in house-music histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0136",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Roberts Show Lounge",
+    "aliases": [
+      "Roberts Show Club"
+    ],
+    "description": "Herman Roberts's South Side show lounge; starred Nina Simone, Sam Cooke, and Dinah Washington",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Congressional Record, Mar 18 2021 — Rep. Danny K. Davis tribute to Herman Roberts",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0137",
+    "type": "Venue",
+    "subtype": "ballroom",
+    "name": "Pershing Ballroom",
+    "aliases": [],
+    "description": "Ballroom in the Pershing Hotel at 64th and Cottage Grove that hosted jazz greats",
+    "era": "1940s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Down Beat session records via plosin.com; Chicago Bike Adventures — Hotel Pershing",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0138",
+    "type": "Venue",
+    "subtype": "ballroom",
+    "name": "Trianon Ballroom",
+    "aliases": [],
+    "description": "Grand Woodlawn ballroom near 63rd Street, billed as the 'World's Most Beautiful Ballroom'",
+    "era": "1920s–1960s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum — The Trianon Ballroom",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0139",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "High Chaparral",
+    "aliases": [
+      "High Chaparral Lounge"
+    ],
+    "description": "Large South Side soul club at 79th and Stony Island that hosted national R&B acts",
+    "era": "1960s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Black Social Culture Map — High Chaparral",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0140",
+    "type": "Venue",
+    "subtype": "lounge",
+    "name": "New Apartment Lounge",
+    "aliases": [],
+    "description": "75th Street jazz lounge where tenor saxophonist Von Freeman held court on Tuesday nights",
+    "era": "1970s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPR/WBEZ — Von Freeman appreciation; Chicago Bar Project",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0141",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Rosa's Lounge",
+    "aliases": [
+      "Rosa's"
+    ],
+    "description": "Family-run blues club and community anchor for Chicago blues",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago blues guides",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0142",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "Lee's Unleaded Blues",
+    "aliases": [],
+    "description": "Long-running South Side blues club",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago blues guides",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0143",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "B.L.U.E.S.",
+    "aliases": [
+      "B.L.U.E.S. Chicago"
+    ],
+    "description": "Chicago blues club known by its B.L.U.E.S. marquee",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago blues guides",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0144",
+    "type": "Venue",
+    "subtype": "club",
+    "name": "House of Blues Chicago",
+    "aliases": [],
+    "description": "Marina City music venue presenting blues and roots acts",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Venue's published history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0145",
+    "type": "Venue",
+    "subtype": "lounge",
+    "name": "Gerri's Palm Tavern",
+    "aliases": [
+      "Palm Tavern"
+    ],
+    "description": "Historic Bronzeville tavern on 47th Street, a gathering place for jazz musicians and writers",
+    "era": "1930s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Bronzeville histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0146",
+    "type": "Venue",
+    "subtype": "lounge",
+    "name": "Sutherland Lounge",
+    "aliases": [],
+    "description": "Jazz lounge in the Sutherland Hotel on the South Side",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Documented in Chicago jazz histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0147",
+    "type": "Church",
+    "subtype": "ame",
+    "name": "Quinn Chapel AME Church",
+    "aliases": [
+      "2401 South Wabash Avenue",
+      "Quinn Chapel"
+    ],
+    "description": "Chicago's first African American church congregation, rooted in Bronzeville",
+    "era": "1840s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005",
+      "PLACE-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago — Quinn Chapel AME",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Public Library: Quinn Chapel AME Church Archives",
+        "primary": true
+      }
+    ],
+    "notes": "Present building at 2401 S. Wabash Ave, constructed 1892."
+  },
+  {
+    "id": "CTL-E-0148",
+    "type": "Church",
+    "subtype": "baptist",
+    "name": "Olivet Baptist Church",
+    "aliases": [],
+    "description": "Historic Bronzeville Baptist church, among the largest Black congregations of its era",
+    "era": "1850s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Black Chicago church histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0149",
+    "type": "Church",
+    "subtype": "baptist",
+    "name": "Pilgrim Baptist Church",
+    "aliases": [
+      "3301 South Indiana Avenue"
+    ],
+    "description": "Bronzeville church known as the birthplace of gospel music under Thomas A. Dorsey",
+    "era": "1910s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001",
+      "PLACE-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in gospel music histories",
+        "primary": false
+      },
+      {
+        "citation": "City of Chicago Landmark Report: Pilgrim Baptist Church",
+        "primary": true
+      },
+      {
+        "citation": "GRAMMY.com: National Museum of Gospel Music / Pilgrim Baptist",
+        "primary": false
+      }
+    ],
+    "notes": "Adler & Sullivan building at 3301 S. Indiana Ave; congregation at site since 1922; building gutted by fire in 2006."
+  },
+  {
+    "id": "CTL-E-0150",
+    "type": "Church",
+    "subtype": "ucc",
+    "name": "Trinity United Church of Christ",
+    "aliases": [
+      "Trinity UCC"
+    ],
+    "description": "Prominent South Side congregation led for decades by Rev. Jeremiah Wright",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Church's published history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0151",
+    "type": "Church",
+    "subtype": "baptist",
+    "name": "Fellowship Missionary Baptist Church",
+    "aliases": [],
+    "description": "South Side Baptist church founded by Rev. Clay Evans",
+    "era": "1950s–contemporary",
+    "project_ids": [
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago church histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0152",
+    "type": "Church",
+    "subtype": "baptist",
+    "name": "Ebenezer Missionary Baptist Church",
+    "aliases": [],
+    "description": "Historic Bronzeville Missionary Baptist congregation",
+    "era": "1900s–contemporary",
+    "project_ids": [
+      "BVM-005",
+      "SCI-004"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Documented in Chicago church histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0153",
+    "type": "Church",
+    "subtype": "baptist",
+    "name": "Greater Harvest Missionary Baptist Church",
+    "aliases": [
+      "Greater Harvest"
+    ],
+    "description": "South Side church associated with the Roberta Martin gospel tradition",
+    "era": "1940s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001",
+      "SCI-004"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Documented in gospel music histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0154",
+    "type": "Church",
+    "subtype": "other",
+    "name": "Apostolic Church of God",
+    "aliases": [],
+    "description": "Large South Side Pentecostal congregation",
+    "era": "1930s–contemporary",
+    "project_ids": [
+      "SCI-004"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Church's published history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0155",
+    "type": "Church",
+    "subtype": "baptist",
+    "name": "Liberty Baptist Church",
+    "aliases": [
+      "Liberty Baptist Church of Chicago"
+    ],
+    "description": "Bronzeville Baptist church founded 1919; its pastor Rev. A.P. Jackson hosted Dr. King during the Chicago Freedom Movement",
+    "era": "1910s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Liberty Baptist Church of Chicago — Our History page",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0156",
+    "type": "Church",
+    "subtype": "other",
+    "name": "Corpus Christi Catholic Church",
+    "aliases": [],
+    "description": "Historic Black Catholic parish in Bronzeville",
+    "era": "1900s–contemporary",
+    "project_ids": [
+      "BVM-005",
+      "SCI-004"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Documented in Bronzeville parish histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0157",
+    "type": "School",
+    "subtype": "high-school",
+    "name": "DuSable High School",
+    "aliases": [
+      "DuSable High"
+    ],
+    "description": "Bronzeville high school whose alumni include Nat King Cole and Dinah Washington",
+    "era": "1930s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Schools — DuSable High School history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0158",
+    "type": "School",
+    "subtype": "high-school",
+    "name": "Wendell Phillips Academy High School",
+    "aliases": [
+      "Phillips Academy"
+    ],
+    "description": "Historic Bronzeville high school, Chicago's first predominantly Black high school",
+    "era": "1900s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Schools — Wendell Phillips Academy history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0159",
+    "type": "School",
+    "subtype": "high-school",
+    "name": "Dunbar Vocational Career Academy",
+    "aliases": [
+      "Dunbar Vocational"
+    ],
+    "description": "South Side career academy with deep roots in Black Chicago",
+    "era": "1940s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Schools — Dunbar Vocational history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0160",
+    "type": "School",
+    "subtype": "university",
+    "name": "Chicago State University",
+    "aliases": [
+      "CSU"
+    ],
+    "description": "Predominantly Black public university on Chicago's Far South Side",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago State University — institutional history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0161",
+    "type": "School",
+    "subtype": "college",
+    "name": "Kennedy-King College",
+    "aliases": [],
+    "description": "City Colleges campus in Englewood serving the South Side",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "City Colleges of Chicago — Kennedy-King history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0162",
+    "type": "School",
+    "subtype": "high-school",
+    "name": "Dr. Martin Luther King Jr. College Preparatory High School",
+    "aliases": [
+      "King College Prep"
+    ],
+    "description": "Selective-enrollment high school in Bronzeville",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Schools — King College Prep",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0163",
+    "type": "School",
+    "subtype": "college",
+    "name": "Olive-Harvey College",
+    "aliases": [],
+    "description": "City Colleges campus on Chicago's Southeast Side",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "City Colleges of Chicago — Olive-Harvey history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0164",
+    "type": "School",
+    "subtype": "high-school",
+    "name": "Providence St. Mel School",
+    "aliases": [
+      "PSM"
+    ],
+    "description": "Independent college-preparatory school on Chicago's West Side",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "School's published history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0165",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Chess Records",
+    "aliases": [],
+    "description": "Legendary Chicago blues and R&B label home to Muddy Waters, Howlin' Wolf, and Chuck Berry",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Chess Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0166",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Vee-Jay Records",
+    "aliases": [
+      "Vee Jay"
+    ],
+    "description": "Pioneering Black-owned Chicago label; early American home of the Beatles and Jimmy Reed",
+    "era": "1950s–1960s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Vee-Jay Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0167",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Curtom Records",
+    "aliases": [],
+    "description": "Curtis Mayfield's Chicago soul label, home of the Impressions",
+    "era": "1960s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Curtom Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0168",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Chi-Sound Records",
+    "aliases": [
+      "Chi Sound"
+    ],
+    "description": "Carl Davis's Chicago soul label of the 1970s and 80s",
+    "era": "1970s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago soul histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0169",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Trax Records",
+    "aliases": [],
+    "description": "Foundational Chicago house-music label",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Trax Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0170",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "D.J. International Records",
+    "aliases": [
+      "DJ International"
+    ],
+    "description": "Chicago house-music label behind early house classics",
+    "era": "1980s–1990s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in house-music histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0171",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Dance Mania Records",
+    "aliases": [
+      "Dance Mania"
+    ],
+    "description": "Chicago label central to the ghetto-house sound",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in house-music histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0172",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Delmark Records",
+    "aliases": [],
+    "description": "Independent Chicago blues and jazz label founded by Bob Koester",
+    "era": "1950s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Delmark Records — label history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0173",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Alligator Records",
+    "aliases": [],
+    "description": "Chicago blues label founded by Bruce Iglauer",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Alligator Records — label history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0174",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "Chance Records",
+    "aliases": [],
+    "description": "Early-1950s Chicago R&B label run by Lart Sheridan",
+    "era": "1950s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Chance Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0175",
+    "type": "Institution",
+    "subtype": "label",
+    "name": "One-derful Records",
+    "aliases": [
+      "One-Derful!"
+    ],
+    "description": "Black-owned 1960s Chicago soul label founded by George Leaner",
+    "era": "1960s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — One-derful Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0176",
+    "type": "Institution",
+    "subtype": "studio",
+    "name": "Universal Recording Corporation",
+    "aliases": [
+      "Universal Recording Corp"
+    ],
+    "description": "Bill Putnam's pioneering Chicago studio where blues, jazz, and R&B sessions were cut",
+    "era": "1940s–1980s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in recording-studio histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0177",
+    "type": "Institution",
+    "subtype": "studio",
+    "name": "Chess Studios",
+    "aliases": [],
+    "description": "The Chess Records recording studio on South Michigan Avenue",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Chess Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0178",
+    "type": "Institution",
+    "subtype": "studio",
+    "name": "RCA Studios Chicago",
+    "aliases": [
+      "RCA Victor Chicago studios"
+    ],
+    "description": "RCA Victor's Chicago recording studios",
+    "era": "mid-20th century",
+    "project_ids": [
+      "BMI-002"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Pearl Hi-Fi — Thirty-five Year History of the Recording Studio",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0179",
+    "type": "RadioStation",
+    "subtype": "am",
+    "name": "WVON",
+    "aliases": [
+      "WVON 1690"
+    ],
+    "description": "Historic Black radio station, 'The Voice of the Negro,' blending soul music and talk",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — WVON",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0180",
+    "type": "RadioStation",
+    "subtype": "fm",
+    "name": "WBMX",
+    "aliases": [],
+    "description": "Chicago station central to the rise of house music in the 1980s",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago radio histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0181",
+    "type": "RadioStation",
+    "subtype": "fm",
+    "name": "WGCI",
+    "aliases": [
+      "WGCI-FM"
+    ],
+    "description": "Long-running Chicago urban contemporary radio station",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago radio histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0182",
+    "type": "RadioStation",
+    "subtype": "am",
+    "name": "WJPC",
+    "aliases": [],
+    "description": "Johnson Publishing's Black-owned radio station",
+    "era": "1970s–1990s",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago radio histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0183",
+    "type": "RadioStation",
+    "subtype": "fm",
+    "name": "WVAZ",
+    "aliases": [
+      "V103"
+    ],
+    "description": "Chicago urban adult contemporary station (V103)",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BMI-002"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago radio histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0184",
+    "type": "RadioStation",
+    "subtype": "fm",
+    "name": "WHPK",
+    "aliases": [
+      "WHPK 88.5"
+    ],
+    "description": "University of Chicago station known for championing hip-hop",
+    "era": "1980s–contemporary",
+    "project_ids": [
+      "BMI-002"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "University of Chicago — WHPK",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0185",
+    "type": "Institution",
+    "subtype": "record-store",
+    "name": "Imports Etc.",
+    "aliases": [
+      "Imports Etc Records"
+    ],
+    "description": "Legendary Chicago record store and hub for house DJs",
+    "era": "1970s–2000s",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in house-music histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0186",
+    "type": "Institution",
+    "subtype": "record-store",
+    "name": "Dr. Wax Records",
+    "aliases": [
+      "Dr. Wax"
+    ],
+    "description": "Hyde Park record store institution for jazz, soul, and reggae vinyl",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BMI-002"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Chicago music guides",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0187",
+    "type": "Institution",
+    "subtype": "record-store",
+    "name": "Gramaphone Records",
+    "aliases": [
+      "Gramaphone"
+    ],
+    "description": "Chicago record store famed among house and techno DJs",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in house/techno histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0188",
+    "type": "Business",
+    "subtype": "bank",
+    "name": "Binga State Bank",
+    "aliases": [],
+    "description": "Jesse Binga's pioneering Black-owned Chicago bank",
+    "era": "1920s–1930s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago — Binga State Bank",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0189",
+    "type": "Business",
+    "subtype": "manufacturing",
+    "name": "Overton Hygienic Manufacturing Company",
+    "aliases": [
+      "Overton Hygienic"
+    ],
+    "description": "Anthony Overton's cosmetics company, maker of High Brown Face Powder",
+    "era": "1910s–1980s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "BlackPast.org — Anthony Overton; Library of Congress business guide",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0190",
+    "type": "Business",
+    "subtype": "services",
+    "name": "Supreme Life Insurance Company",
+    "aliases": [
+      "Supreme Life Insurance"
+    ],
+    "description": "Historic Black-owned Chicago insurance company",
+    "era": "1920s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Black business histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0191",
+    "type": "Business",
+    "subtype": "bank",
+    "name": "Seaway National Bank",
+    "aliases": [
+      "Seaway Bank"
+    ],
+    "description": "Black-owned South Side bank serving Chatham and the South Side",
+    "era": "1960s–2010s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Documented in Black banking histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0192",
+    "type": "Business",
+    "subtype": "publishing-company",
+    "name": "Johnson Publishing Company",
+    "aliases": [
+      "JPC"
+    ],
+    "description": "Chicago publisher of Ebony and Jet magazines",
+    "era": "1940s–2010s",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago — Johnson Publishing Company",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0193",
+    "type": "Business",
+    "subtype": "bank",
+    "name": "Douglass National Bank",
+    "aliases": [],
+    "description": "Anthony Overton's nationally chartered Black-owned bank",
+    "era": "1920s–1930s",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "BlackPast.org — Anthony Overton",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0194",
+    "type": "Business",
+    "subtype": "bank",
+    "name": "Independence Bank of Chicago",
+    "aliases": [
+      "Independence Bank"
+    ],
+    "description": "Black-owned bank founded 1964 to serve the Chatham-Avalon community",
+    "era": "1960s–1990s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "FDIC bank records; Face2Face Africa — Alvin Boutte",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0195",
+    "type": "Institution",
+    "subtype": "museum",
+    "name": "DuSable Museum of African American History",
+    "aliases": [
+      "740 East 56th Place",
+      "DuSable Museum"
+    ],
+    "description": "The nation's first independent museum of African American history, founded by Margaret Burroughs",
+    "era": "1960s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum — institutional history",
+        "primary": true
+      },
+      {
+        "citation": "Museu.ms: DuSable Museum of African American History",
+        "primary": false
+      }
+    ],
+    "notes": "Current Washington Park home at 740 E. 56th Pl; museum founded 1961, moved to this site 1973."
+  },
+  {
+    "id": "CTL-E-0196",
+    "type": "Institution",
+    "subtype": "cultural-center",
+    "name": "South Side Community Art Center",
+    "aliases": [
+      "3831 South Michigan Avenue"
+    ],
+    "description": "Historic Bronzeville community art center and gallery",
+    "era": "1940s–contemporary",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "South Side Community Art Center — institutional history",
+        "primary": true
+      },
+      {
+        "citation": "NPS: South Side Community Art Center nomination",
+        "primary": true
+      },
+      {
+        "citation": "Preservation Chicago: South Side Community Art Center",
+        "primary": false
+      }
+    ],
+    "notes": "3831 S. Michigan Ave; first classes December 15, 1940; formally dedicated by Eleanor Roosevelt May 7, 1941."
+  },
+  {
+    "id": "CTL-E-0197",
+    "type": "Institution",
+    "subtype": "cultural-center",
+    "name": "eta Creative Arts Foundation",
+    "aliases": [
+      "eta"
+    ],
+    "description": "South Side theater and arts institution",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "eta Creative Arts Foundation — institutional history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0198",
+    "type": "Institution",
+    "subtype": "cultural-center",
+    "name": "Black Ensemble Theater",
+    "aliases": [],
+    "description": "Black theater company founded by Jackie Taylor",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Black Ensemble Theater — company history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0199",
+    "type": "Institution",
+    "subtype": "museum",
+    "name": "National A. Philip Randolph Pullman Porter Museum",
+    "aliases": [
+      "A. Philip Randolph Pullman Porter Museum"
+    ],
+    "description": "Museum honoring Black railroad porters and the Brotherhood of Sleeping Car Porters",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "National A. Philip Randolph Pullman Porter Museum — history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0200",
+    "type": "Institution",
+    "subtype": "museum",
+    "name": "Bronzeville Children's Museum",
+    "aliases": [],
+    "description": "The first and only African American children's museum in the United States",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Bronzeville Children's Museum",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0201",
+    "type": "Institution",
+    "subtype": "cultural-center",
+    "name": "Kuumba Workshop",
+    "aliases": [],
+    "description": "Black Arts Movement theater workshop in Chicago",
+    "era": "1960s–1970s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Documented in Black Arts Movement histories",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0202",
+    "type": "Archive",
+    "subtype": "collection",
+    "name": "Vivian G. Harsh Research Collection of Afro-American History and Literature",
+    "aliases": [
+      "Harsh Collection"
+    ],
+    "description": "Major Black history research collection at the Carter G. Woodson Regional Library",
+    "era": "1930s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Library — Harsh Research Collection",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0203",
+    "type": "Archive",
+    "subtype": "repository",
+    "name": "The HistoryMakers",
+    "aliases": [],
+    "description": "Chicago-based digital archive of African American oral histories",
+    "era": "1990s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The HistoryMakers — organizational history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0204",
+    "type": "Archive",
+    "subtype": "repository",
+    "name": "Carter G. Woodson Regional Library",
+    "aliases": [
+      "Woodson Regional Library"
+    ],
+    "description": "Chicago Public Library branch that houses the Harsh Collection",
+    "era": "1970s–contemporary",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Public Library — Woodson Regional Library",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0205",
+    "type": "Neighborhood",
+    "name": "Bronzeville",
+    "aliases": [
+      "Black Belt",
+      "Black Metropolis"
+    ],
+    "description": "Historic South Side district, once called the Black Belt, that became the center of African-American culture in Chicago.",
+    "era": "1910s–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Bronzeville",
+        "primary": false
+      },
+      {
+        "citation": "City of Chicago: Chicago Black Renaissance Literary Movement Report",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0206",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Douglas",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side, overlapping the historic Bronzeville/Black Belt district.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      },
+      {
+        "citation": "Encyclopedia of Chicago: Bronzeville",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0207",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Grand Boulevard",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side, overlapping the historic Bronzeville/Black Belt district.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      },
+      {
+        "citation": "Encyclopedia of Chicago: Bronzeville",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0208",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Washington Park",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side; the Bud Billiken Parade route travels through it to Washington Park.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Bud Billiken Parade and Picnic",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0209",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Woodlawn",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0210",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "South Shore",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0211",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Chatham",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0212",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Auburn Gresham",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0213",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Englewood",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0214",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Hyde Park",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0215",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Kenwood",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0216",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Oakland",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0217",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Greater Grand Crossing",
+    "aliases": [],
+    "description": "Official Chicago community area on the South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0218",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Roseland",
+    "aliases": [],
+    "description": "Official Chicago community area on the Far South Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0219",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "North Lawndale",
+    "aliases": [],
+    "description": "Official Chicago community area on the West Side.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0220",
+    "type": "Neighborhood",
+    "subtype": "community area",
+    "name": "Near West Side",
+    "aliases": [],
+    "description": "Official Chicago community area west of downtown; includes the historic Maxwell Street district.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Community areas of Chicago",
+        "primary": false
+      },
+      {
+        "citation": "Choose Chicago: Maxwell Street Market history",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0221",
+    "type": "Neighborhood",
+    "subtype": "historic district",
+    "name": "Maxwell Street",
+    "aliases": [
+      "Maxwell Street Market"
+    ],
+    "description": "Historic Near West Side market district; open-air market widely considered the birthplace of electrified Chicago blues.",
+    "era": "19th century–present",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Choose Chicago: Maxwell Street Market history",
+        "primary": false
+      },
+      {
+        "citation": "City of Chicago: History of the Maxwell Street Market",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0222",
+    "type": "Neighborhood",
+    "subtype": "district",
+    "name": "The Stroll",
+    "aliases": [
+      "The Stroll (South State Street)"
+    ],
+    "description": "Multi-block stretch of South State Street beginning at 31st Street and heading south; historic nightlife and entertainment district.",
+    "era": "early–mid 20th century",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "IIT Bronzeville History Booklet",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0223",
+    "type": "Neighborhood",
+    "subtype": "neighborhood",
+    "name": "Marquette Park",
+    "aliases": [],
+    "description": "Southwest Side neighborhood; site of the August 5, 1966 open-housing march and the Martin Luther King Jr. Living Memorial.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Park District: MLK Jr. Living Memorial",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Marquette Park rallies",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0224",
+    "type": "Neighborhood",
+    "subtype": "region",
+    "name": "South Side",
+    "aliases": [],
+    "description": "Broad region of Chicago south of the Loop, home to Bronzeville and the historic Black Belt communities.",
+    "era": "19th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Bronzeville",
+        "primary": false
+      },
+      {
+        "citation": "City of Chicago: Chicago Black Renaissance Literary Movement Report",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0225",
+    "type": "Address",
+    "name": "Chess Records Office and Studio",
+    "aliases": [
+      "2120 South Michigan Avenue"
+    ],
+    "description": "Office and studio at 2120 S. Michigan Ave occupied by Chess Records, 1957–1967.",
+    "era": "1957–1967",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "City of Chicago Landmark Designation Report: Chess Records",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0226",
+    "type": "Address",
+    "name": "Wabash Avenue YMCA",
+    "aliases": [
+      "3763 South Wabash Avenue"
+    ],
+    "description": "YMCA at 3763 S. Wabash Ave associated with organizing the movement that launched Negro History Week in 1926.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wabash YMCA preservation site (trcwabash.org)",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Wabash Avenue YMCA",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0227",
+    "type": "Address",
+    "name": "Chicago Defender Building",
+    "aliases": [
+      "3435 South Indiana Avenue"
+    ],
+    "description": "Building at 3435 S. Indiana Ave that housed the Chicago Defender newspaper, 1920–1960.",
+    "era": "1920–1960",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Historical Marker Database: Chicago Defender Building",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Literary Hall of Fame: Chicago Defender Building",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0228",
+    "type": "Address",
+    "name": "Vee-Jay Records Office",
+    "aliases": [
+      "1449 South Michigan Avenue"
+    ],
+    "description": "Principal Chicago office of Vee-Jay Records at 1449 S. Michigan Ave (longest tenancy); the label was founded in Gary, Indiana, in 1953.",
+    "era": "c. 1960–1966",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Cook County Resolution honoring Vee-Jay Records",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0229",
+    "type": "Address",
+    "subtype": "church",
+    "name": "Roberts Temple Church of God in Christ",
+    "aliases": [
+      "4021 South State Street"
+    ],
+    "description": "Church at 4021 S. State St; site of Emmett Till's open-casket visitation and funeral in September 1955.",
+    "era": "20th century–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "City of Chicago Landmark Report: Emmett Till and Mamie Till-Mobley House",
+        "primary": true
+      },
+      {
+        "citation": "National Trust: Roberts Temple Church of God in Christ",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0230",
+    "type": "Address",
+    "name": "Chicago Bee Building",
+    "aliases": [
+      "3647–3655 South State Street"
+    ],
+    "description": "Building at 3647–3655 S. State St associated with the Chicago Bee newspaper, first issued in 1926.",
+    "era": "1920s–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Literary Hall of Fame: The Chicago Bee Building",
+        "primary": false
+      },
+      {
+        "citation": "NPS National Register Nomination: Chicago Bee Building",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0231",
+    "type": "Address",
+    "name": "Eighth Regiment Armory",
+    "aliases": [
+      "3533 South Giles Avenue"
+    ],
+    "description": "Armory at 3533 S. Giles Ave built in 1914 for the African American 'Fighting Eighth' regiment.",
+    "era": "1914–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Eighth Regiment Armory (Chicago)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0232",
+    "type": "Address",
+    "subtype": "monument",
+    "name": "Victory Monument",
+    "aliases": [
+      "35th Street and Martin Luther King Jr. Drive"
+    ],
+    "description": "Monument at 35th St and Martin Luther King Jr. Dr constructed in 1927 honoring the Eighth Regiment's World War I service; doughboy sculpture added 1936.",
+    "era": "1927–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPS Nomination: Victory Monument",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0233",
+    "type": "Address",
+    "name": "Rhumboogie Café",
+    "aliases": [
+      "343 East 55th Street"
+    ],
+    "description": "Nightclub at 343 E. 55th St opened April 1942; destroyed by fire December 31, 1945; reopened June 1946; closed May 1947.",
+    "era": "1942–1947",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Rhumboogie Café",
+        "primary": false
+      },
+      {
+        "citation": "UChicago CEGU: Washington Park club scene bibliography",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0234",
+    "type": "Address",
+    "name": "Johnson Publishing Company Building",
+    "aliases": [
+      "820 South Michigan Avenue"
+    ],
+    "description": "Building at 820 S. Michigan Ave; Johnson Publishing Company moved here in December 1971; home of Ebony and Jet magazines.",
+    "era": "1971–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Architecture.org: Johnson Publishing Company",
+        "primary": false
+      },
+      {
+        "citation": "DuSable Museum: Art of Our Storytellers (Johnson Publishing Collection)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0235",
+    "type": "Address",
+    "subtype": "corridor",
+    "name": "East 63rd Street Corridor",
+    "aliases": [
+      "63rd Street"
+    ],
+    "description": "East 63rd Street, documented as a Black nightlife and entertainment corridor extending into Woodlawn; no fixed numerical boundaries asserted.",
+    "era": "20th century–present",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Beachwood Reporter: 63rd Street",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0236",
+    "type": "Address",
+    "subtype": "site",
+    "name": "Original Comiskey Park Site",
+    "aliases": [
+      "35th Street and Shields Avenue (approximate)"
+    ],
+    "description": "Site of the original Comiskey Park (1910–1990), where Disco Demolition Night was held on July 12, 1979; ballpark demolished 1991.",
+    "era": "1910–1990 (demolished 1991)",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Wikipedia: Rate Field (Comiskey Park)",
+        "primary": false
+      },
+      {
+        "citation": "Chicago History Museum: Disco Demolition Night",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0237",
+    "type": "Address",
+    "subtype": "memorial",
+    "name": "Martin Luther King Jr. Living Memorial",
+    "aliases": [
+      "6743 S. Kedzie Ave"
+    ],
+    "description": "Living memorial in Marquette Park dedicated August 5, 2016, marking the 50th anniversary of Dr. King's August 5, 1966 open-housing march.",
+    "era": "2016–present",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Park District: MLK Jr. Living Memorial",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Park District: Marquette Park fieldhouse",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0238",
+    "type": "Address",
+    "subtype": "corridor",
+    "name": "Record Row",
+    "aliases": [
+      "South Michigan Avenue record district"
+    ],
+    "description": "South Michigan Avenue corridor once lined with Black-owned record labels, distributors, and studios",
+    "era": "1950s–1970s",
+    "project_ids": [
+      "BMI-002",
+      "BVM-005",
+      "MUSIC-001"
+    ],
+    "verification": "Provisional",
+    "sources": [
+      {
+        "citation": "Chicago music histories (Record Row, South Michigan Ave.)",
+        "primary": false
+      }
+    ],
+    "notes": "Nickname and exact extent vary across sources; corridor concept is well attested."
+  },
+  {
+    "id": "CTL-E-0239",
+    "type": "Event",
+    "name": "Great Migration",
+    "aliases": [
+      "Great Northward Migration",
+      "Black Migration"
+    ],
+    "description": "Movement of about six million African Americans from the rural South to the urban North, Midwest, and West, reshaping Chicago's Black Belt.",
+    "era": "1916–1970",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Great Migration (African American)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0240",
+    "type": "Event",
+    "name": "Chicago Race Riot of 1919",
+    "aliases": [
+      "Red Summer riot"
+    ],
+    "description": "Racial violence from July 27 to August 3, 1919, ignited by the killing of Eugene Williams at the segregated 29th Street beach.",
+    "era": "1919-07-27–1919-08-03",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum: Murder of Eugene Williams / 1919 riot",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0241",
+    "type": "Event",
+    "name": "First Issue of the Chicago Defender",
+    "aliases": [],
+    "description": "Robert Sengstacke Abbott publishes the first issue of the Chicago Defender in May 1905 (sources differ on May 5 vs. May 6).",
+    "era": "1905",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "BlackPast: Chicago Defender (1905– )",
+        "primary": false
+      },
+      {
+        "citation": "Illinois House Resolution 406 (93rd GA): Chicago Defender",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0242",
+    "type": "Event",
+    "name": "Savoy Ballroom Opening",
+    "aliases": [],
+    "description": "The Savoy Ballroom opens at 4733 S. Parkway on November 23, 1927.",
+    "era": "1927-11-23",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Jazz Age Chicago: Savoy Ballroom",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0243",
+    "type": "Event",
+    "name": "Regal Theater Opening",
+    "aliases": [],
+    "description": "The Regal Theater opens at 4719 S. Parkway on February 4, 1928.",
+    "era": "1928-02-04",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Regal Theater",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0244",
+    "type": "Event",
+    "name": "First Bud Billiken Parade",
+    "aliases": [
+      "Bud Billiken Day Parade"
+    ],
+    "description": "First Bud Billiken Parade held August 11, 1929; founded by Chicago Defender publisher Robert S. Abbott as a celebration of Black youth and education.",
+    "era": "1929-08-11",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "28 Days of Black History: Bud Billiken Parade",
+        "primary": false
+      },
+      {
+        "citation": "MDSOAR: Bud Billiken Parade study (1929–2000)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0245",
+    "type": "Event",
+    "name": "First Negro History Week",
+    "aliases": [],
+    "description": "First national Negro History Week launched in February 1926 by Carter G. Woodson through the Association for the Study of Negro Life and History; precursor to Black History Month.",
+    "era": "1926-02",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Smithsonian NMAAHC: Negro History Week origins",
+        "primary": false
+      },
+      {
+        "citation": "Smithsonian NMAH: Dr. Carter Woodson's Negro History Week",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0246",
+    "type": "Event",
+    "name": "South Side Community Art Center Dedication",
+    "aliases": [],
+    "description": "The South Side Community Art Center is formally dedicated by Eleanor Roosevelt on May 7, 1941.",
+    "era": "1941-05-07",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "NPS: South Side Community Art Center nomination",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0247",
+    "type": "Event",
+    "name": "Rhumboogie Café Opening",
+    "aliases": [],
+    "description": "The Rhumboogie Café nightclub opens at 343 E. 55th St in April 1942.",
+    "era": "1942-04",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Rhumboogie Café",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0248",
+    "type": "Event",
+    "name": "Rhumboogie Café Fire",
+    "aliases": [],
+    "description": "Fire destroys the Rhumboogie Café on December 31, 1945.",
+    "era": "1945-12-31",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Rhumboogie Café",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0249",
+    "type": "Event",
+    "name": "Rhumboogie Café Reopening",
+    "aliases": [],
+    "description": "The Rhumboogie Café reopens in June 1946 after the 1945 fire.",
+    "era": "1946-06",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Rhumboogie Café",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0250",
+    "type": "Event",
+    "name": "Rhumboogie Café Closure",
+    "aliases": [],
+    "description": "The Rhumboogie Café closes permanently in May 1947.",
+    "era": "1947-05",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Rhumboogie Café",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0251",
+    "type": "Event",
+    "name": "Chess Records Founded",
+    "aliases": [],
+    "description": "The Chess brothers acquire Aristocrat Records and rename it Chess Records in 1950.",
+    "era": "1950",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The Clio: Chess Records",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0252",
+    "type": "Event",
+    "name": "Vee-Jay Records Founded",
+    "aliases": [],
+    "description": "Vee-Jay Records established in Gary, Indiana, in 1953; later operated from Chicago offices including 1449 S. Michigan Ave.",
+    "era": "1953",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Cook County Resolution honoring Vee-Jay Records",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0253",
+    "type": "Event",
+    "name": "Emmett Till Visitation and Funeral",
+    "aliases": [],
+    "description": "Open-casket visitation and funeral of Emmett Till held at Roberts Temple Church of God in Christ, September 3–6, 1955.",
+    "era": "1955-09-03–1955-09-06",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "City of Chicago Landmark Report: Emmett Till and Mamie Till-Mobley House",
+        "primary": true
+      },
+      {
+        "citation": "National Trust: Roberts Temple Church of God in Christ",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0254",
+    "type": "Event",
+    "name": "Club DeLisa Closure",
+    "aliases": [],
+    "description": "The Club DeLisa nightclub closes on February 16, 1958.",
+    "era": "1958-02-16",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Club DeLisa",
+        "primary": false
+      },
+      {
+        "citation": "African American Registry: Club DeLisa opens",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0255",
+    "type": "Event",
+    "name": "Freedom Day School Boycott",
+    "aliases": [
+      "1963 Chicago Public Schools boycott"
+    ],
+    "description": "About 225,000 students boycott Chicago Public Schools on October 22, 1963 ('Freedom Day') to protest segregation and unequal conditions.",
+    "era": "1963-10-22",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "HISTORY: 1963 Chicago Public School Boycott",
+        "primary": false
+      },
+      {
+        "citation": "Facing History: 1963 Chicago Public Schools Boycott",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0256",
+    "type": "Event",
+    "name": "Marquette Park Open-Housing March",
+    "aliases": [],
+    "description": "Dr. Martin Luther King Jr. leads about 700 open-housing marchers into Marquette Park on August 5, 1966; he is struck in the head by a rock thrown by white counter-demonstrators.",
+    "era": "1966-08-05",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia: Marquette Park rallies",
+        "primary": false
+      },
+      {
+        "citation": "Chicago Park District: MLK Jr. Living Memorial",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0257",
+    "type": "Event",
+    "name": "Regal Theater Demolition",
+    "aliases": [],
+    "description": "The Regal Theater, closed since 1968, is demolished in 1973.",
+    "era": "1973",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago: Regal Theater",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0258",
+    "type": "Event",
+    "name": "Disco Demolition Night",
+    "aliases": [],
+    "description": "Anti-disco promotion between games of a White Sox doubleheader at the original Comiskey Park on July 12, 1979, ends in a riot and field destruction.",
+    "era": "1979-07-12",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum: Disco Demolition Night",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0259",
+    "type": "Event",
+    "name": "Harold Washington Elected Mayor",
+    "aliases": [],
+    "description": "Harold Washington is elected on April 12, 1983, becoming Chicago's first Black mayor.",
+    "era": "1983-04-12",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum: Harold Washington Story",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0260",
+    "type": "Event",
+    "name": "Million Man March",
+    "aliases": [],
+    "description": "Mass gathering of Black men in Washington, D.C., on October 16, 1995, called by Nation of Islam leader Louis Farrakhan; mobilization anchored in Chicago.",
+    "era": "1995-10-16",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "HISTORY: Million Man March (Oct 16, 1995)",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Million Man March",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0261",
+    "type": "Event",
+    "name": "Pilgrim Baptist Church Fire",
+    "aliases": [],
+    "description": "Fire guts the historic Pilgrim Baptist Church at 3301 S. Indiana Ave on January 6, 2006, during roof restoration work.",
+    "era": "2006-01-06",
+    "project_ids": [
+      "MUSIC-001",
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "GRAMMY.com: National Museum of Gospel Music / Pilgrim Baptist",
+        "primary": false
+      },
+      {
+        "citation": "Preservation Chicago: Pilgrim Baptist Church",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0262",
+    "type": "Event",
+    "name": "Barack Obama Elected President",
+    "aliases": [],
+    "description": "Barack Obama is elected the first African-American U.S. president on November 4, 2008, delivering his victory speech before hundreds of thousands in Chicago's Grant Park.",
+    "era": "2008-11-04",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "HISTORY: Barack Obama elected (Nov 4, 2008)",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia: Barack Obama 2008 presidential election victory speech",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0263",
+    "type": "Event",
+    "name": "MLK Living Memorial Dedication",
+    "aliases": [
+      "Martin Luther King Jr. Living Memorial dedication"
+    ],
+    "description": "The Martin Luther King Jr. Living Memorial is dedicated in Marquette Park on August 5, 2016, the 50th anniversary of the 1966 open-housing march.",
+    "era": "2016-08-05",
+    "project_ids": [
+      "PLACE-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Park District: MLK Jr. Living Memorial",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0264",
+    "type": "Event",
+    "subtype": "founding",
+    "name": "First publication of Ebony magazine",
+    "aliases": [],
+    "description": "John H. Johnson launches Ebony magazine, the flagship Black photojournalism monthly",
+    "era": "1945",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Johnson Publishing Company history",
+        "primary": false
+      },
+      {
+        "citation": "Encyclopedia of Chicago: Ebony",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0265",
+    "type": "Event",
+    "subtype": "founding",
+    "name": "Founding of the DuSable Museum",
+    "aliases": [],
+    "description": "Margaret Burroughs founds the DuSable Museum of African American History, the nation's first independent Black history museum",
+    "era": "1961",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "DuSable Museum official history",
+        "primary": true
+      },
+      {
+        "citation": "Encyclopedia of Chicago: DuSable Museum",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0266",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "Chicago Defender",
+    "aliases": [
+      "The Chicago Defender"
+    ],
+    "description": "Historic Chicago Black weekly newspaper founded by Robert Sengstacke Abbott; championed the Great Migration and civil rights.",
+    "era": "1905–present",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Congressional Record — Chicago Daily Defender Commemoration",
+        "primary": true
+      },
+      {
+        "citation": "chipublib.org — Bud Billiken Parade: 90 Years",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0267",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "Chicago Whip",
+    "aliases": [
+      "The Whip"
+    ],
+    "description": "Black weekly newspaper and Defender rival that led the 'Don't Spend Money Where You Can't Work' boycott campaign.",
+    "era": "1919–1939",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Chicago Whip",
+        "primary": false
+      },
+      {
+        "citation": "WTTW — Early Chicago: The Black Press",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0268",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "The Broad Ax",
+    "aliases": [],
+    "description": "Controversial Black weekly newspaper founded by Julius F. Taylor; moved from Salt Lake City to Chicago in 1899.",
+    "era": "1895–1931 (Chicago from 1899)",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — The Broad Ax",
+        "primary": false
+      },
+      {
+        "citation": "Zinn Education Project — Julius Taylor Publishes Broad Ax",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0269",
+    "type": "Publication",
+    "subtype": "magazine",
+    "name": "Ebony",
+    "aliases": [
+      "Ebony magazine"
+    ],
+    "description": "Glossy monthly magazine founded by John H. Johnson celebrating Black achievement, culture, and photojournalism.",
+    "era": "1945–present",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Architecture Center — John H. Johnson and the Johnson Publishing Company",
+        "primary": true
+      },
+      {
+        "citation": "ebony.com — Celebrating EBONY Magazine",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0270",
+    "type": "Publication",
+    "subtype": "magazine",
+    "name": "Jet",
+    "aliases": [
+      "Jet magazine"
+    ],
+    "description": "Pocket-sized weekly news magazine founded by John H. Johnson; its 1955 Emmett Till coverage was a civil-rights landmark.",
+    "era": "1951–present",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Architecture Center — John H. Johnson and the Johnson Publishing Company",
+        "primary": true
+      },
+      {
+        "citation": "artnet news — Ebony/Jet archives auction",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0271",
+    "type": "Publication",
+    "subtype": "magazine",
+    "name": "Negro Digest / Black World",
+    "aliases": [
+      "Negro Digest",
+      "Black World"
+    ],
+    "description": "Magazine founded by John H. Johnson; renamed Black World in 1970, it became a leading Black Arts Movement journal under Hoyt W. Fuller.",
+    "era": "1942–1976",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Negro Digest",
+        "primary": false
+      },
+      {
+        "citation": "Encyclopedia.com — Black World/Negro Digest",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0272",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "Muhammad Speaks",
+    "aliases": [
+      "Mr. Muhammad Speaks"
+    ],
+    "description": "Official newspaper of the Nation of Islam (1960–1975); at its peak the most widely read Black-operated newspaper in the U.S.",
+    "era": "1960–1975",
+    "project_ids": [
+      "BPM-003",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Muhammad Speaks",
+        "primary": false
+      },
+      {
+        "citation": "Bunk History — Muhammad Speaks for Freedom, Justice, and Equality",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0273",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "Chicago Crusader",
+    "aliases": [
+      "The Chicago Crusader",
+      "The New Crusader",
+      "The Crusader"
+    ],
+    "description": "Weekly Black newspaper founded by Balm L. Leavell Jr. and Joseph H. Jefferson; Chicago's longest-running African American weekly.",
+    "era": "1940–present",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — The Chicago Crusader",
+        "primary": false
+      },
+      {
+        "citation": "Congressional Record — Chicago Crusader 75th Anniversary tribute",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0274",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "N'Digo",
+    "aliases": [
+      "N'DIGO"
+    ],
+    "description": "Chicago Black weekly 'magapaper' founded by Hermene Hartman, focused on Black middle-class urban life.",
+    "era": "1989–present",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The HistoryMakers — Hermene Hartman biography",
+        "primary": true
+      },
+      {
+        "citation": "NYPL Research Catalog — Hermene Hartman oral history summary",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0275",
+    "type": "Publication",
+    "subtype": "newspaper",
+    "name": "The Final Call",
+    "aliases": [],
+    "description": "Twice-monthly official newspaper of the Nation of Islam, published from Chicago.",
+    "era": "1979–present",
+    "project_ids": [
+      "BPM-003",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — List of African American newspapers in Illinois",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0276",
+    "type": "Work",
+    "subtype": "book",
+    "name": "Black Metropolis",
+    "aliases": [
+      "Black Metropolis: A Study of Negro Life in a Northern City"
+    ],
+    "description": "Landmark 1945 sociological study of Black Chicago by St. Clair Drake and Horace R. Cayton.",
+    "era": "1945",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Standard bibliographic record — Drake & Cayton, Black Metropolis (1945)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0277",
+    "type": "Work",
+    "subtype": "book",
+    "name": "Native Son",
+    "aliases": [],
+    "description": "1940 novel by Richard Wright about Bigger Thomas, a young Black man on Chicago's South Side.",
+    "era": "1940",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Standard bibliographic record — Richard Wright, Native Son (1940)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0278",
+    "type": "Work",
+    "subtype": "play",
+    "name": "A Raisin in the Sun",
+    "aliases": [],
+    "description": "1959 Broadway play by Lorraine Hansberry about a Black family's dream of homeownership on Chicago's South Side.",
+    "era": "1959",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Standard bibliographic record — Lorraine Hansberry, A Raisin in the Sun (1959)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0279",
+    "type": "Work",
+    "subtype": "book",
+    "name": "A Street in Bronzeville",
+    "aliases": [],
+    "description": "Gwendolyn Brooks's first poetry collection (1945), a portrait of everyday life in Chicago's Bronzeville.",
+    "era": "1945",
+    "project_ids": [
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Britannica — Gwendolyn Brooks",
+        "primary": false
+      },
+      {
+        "citation": "Penguin Random House — A Street in Bronzeville",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0280",
+    "type": "Work",
+    "subtype": "book",
+    "name": "Black Boy",
+    "aliases": [],
+    "description": "Richard Wright's 1945 memoir of his youth in Mississippi and Memphis, closing with his arrival in Chicago.",
+    "era": "1945",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Standard bibliographic record — Richard Wright, Black Boy (1945)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0281",
+    "type": "Work",
+    "subtype": "book",
+    "name": "The Warmth of Other Suns",
+    "aliases": [],
+    "description": "Isabel Wilkerson's 2010 narrative history of the Great Migration, following three migrants' journeys.",
+    "era": "2010",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Standard bibliographic record — Isabel Wilkerson, The Warmth of Other Suns (2010)",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0282",
+    "type": "Work",
+    "subtype": "film",
+    "name": "Super Fly (film)",
+    "aliases": [
+      "Super Fly"
+    ],
+    "description": "1972 blaxploitation crime film directed by Gordon Parks Jr., famous for its Curtis Mayfield soundtrack.",
+    "era": "1972",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "audiophix.com — Curtis Mayfield: Super Fly (1972)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0283",
+    "type": "Work",
+    "subtype": "album",
+    "name": "Super Fly (soundtrack album)",
+    "aliases": [
+      "Super Fly — Curtis Mayfield"
+    ],
+    "description": "Curtis Mayfield's 1972 funk-soul soundtrack album for the film Super Fly, featuring 'Freddie's Dead' and the title track.",
+    "era": "1972",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "audiophix.com — Curtis Mayfield: Super Fly (1972)",
+        "primary": false
+      },
+      {
+        "citation": "RareVinyl.com — Curtis Mayfield Super Fly LP catalog record",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0284",
+    "type": "Work",
+    "subtype": "song",
+    "name": "Hoochie Coochie Man",
+    "aliases": [
+      "(I'm Your) Hoochie Coochie Man"
+    ],
+    "description": "1954 Chess Records single: Muddy Waters's recording of Willie Dixon's blues standard, a cornerstone of Chicago blues.",
+    "era": "1954",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Hoochie Coochie Man",
+        "primary": false
+      },
+      {
+        "citation": "uDiscoverMusic — Behind Muddy Waters' classic blues song",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0285",
+    "type": "Work",
+    "subtype": "song",
+    "name": "Roll Over Beethoven",
+    "aliases": [],
+    "description": "1956 Chess Records single written and recorded by Chuck Berry; a rock-and-roll landmark.",
+    "era": "1956",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Roll Over Beethoven",
+        "primary": false
+      },
+      {
+        "citation": "Chuck Berry Collector's Guide — Roll Over Beethoven session record",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0286",
+    "type": "Organization",
+    "subtype": "civil-rights",
+    "name": "NAACP Chicago Branch",
+    "aliases": [
+      "Chicago Branch NAACP",
+      "Chicago Branch of the NAACP"
+    ],
+    "description": "Chicago branch of the NAACP, organized in the 1910s among the association's earliest branches.",
+    "era": "1910s–present",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia of Chicago — National Association for the Advancement of Colored People",
+        "primary": true
+      },
+      {
+        "citation": "Wikipedia — National Association for the Advancement of Colored People",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0287",
+    "type": "Organization",
+    "subtype": "civil-rights",
+    "name": "Chicago Urban League",
+    "aliases": [],
+    "description": "Civil-rights and social-service organization founded in 1916 to assist Black migrants during the Great Migration.",
+    "era": "1916–present",
+    "project_ids": [
+      "BCI-001",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago Community Trust — Black History Month Spotlight: Chicago Urban League",
+        "primary": false
+      },
+      {
+        "citation": "Wikipedia — Chicago Urban League",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0288",
+    "type": "Organization",
+    "subtype": "civil-rights",
+    "name": "Operation PUSH",
+    "aliases": [
+      "People United to Serve Humanity",
+      "People United to Save Humanity"
+    ],
+    "description": "Civil-rights organization founded by Jesse Jackson in 1971, focused on economic empowerment of Black Americans.",
+    "era": "1971–present",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Rainbow/PUSH",
+        "primary": false
+      },
+      {
+        "citation": "LEADERS Magazine — interview with Rev. Jesse Jackson",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0289",
+    "type": "Organization",
+    "subtype": "civil-rights",
+    "name": "Rainbow PUSH Coalition",
+    "aliases": [
+      "Rainbow/PUSH"
+    ],
+    "description": "1996 merger of Operation PUSH and the National Rainbow Coalition; multiracial civil-rights organization headquartered on Chicago's South Side.",
+    "era": "1996–present",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Congressional Record — tribute to Rev. Jesse L. Jackson Sr.",
+        "primary": true
+      },
+      {
+        "citation": "Wikipedia — Rainbow/PUSH",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0290",
+    "type": "Organization",
+    "subtype": "professional",
+    "name": "Association for the Advancement of Creative Musicians",
+    "aliases": [
+      "AACM"
+    ],
+    "description": "Chicago collective of Black jazz musicians and composers (founded 1965), devoted to original creative music.",
+    "era": "1965–present",
+    "project_ids": [
+      "BMI-002",
+      "MUSIC-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Association for the Advancement of Creative Musicians",
+        "primary": false
+      },
+      {
+        "citation": "National Endowment for the Arts — Muhal Richard Abrams on founding AACM",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0291",
+    "type": "Organization",
+    "subtype": "political",
+    "name": "Illinois Chapter of the Black Panther Party",
+    "aliases": [
+      "Black Panther Party Chicago Chapter",
+      "Illinois Black Panther Party",
+      "ILBPP"
+    ],
+    "description": "1968 Chicago chapter of the Black Panther Party, founded by Fred Hampton and Bobby Rush; ran free breakfast and health-clinic survival programs.",
+    "era": "1968–1970s",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Digital Chicago History — The Illinois Chapter of the Black Panther Party",
+        "primary": true
+      },
+      {
+        "citation": "Wikipedia — Rainbow Coalition (Fred Hampton)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0292",
+    "type": "Organization",
+    "subtype": "civic",
+    "name": "Chicago Defender Charities",
+    "aliases": [
+      "Robert Sengstacke Abbott (RSA) Charities"
+    ],
+    "description": "Philanthropic arm of the Chicago Defender; sponsor of the Bud Billiken Parade, the largest African American parade in the U.S.",
+    "era": "1940s–present",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Congressional Record — Chicago Daily Defender Commemoration",
+        "primary": true
+      },
+      {
+        "citation": "chipublib.org — Bud Billiken Parade: 90 Years",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0293",
+    "type": "Organization",
+    "subtype": "professional",
+    "name": "National Association of Black Journalists Chicago Chapter",
+    "aliases": [
+      "NABJ Chicago Chapter",
+      "NABJ-CC"
+    ],
+    "description": "Chicago chapter of the National Association of Black Journalists, supporting Black journalists in the Chicago area.",
+    "era": "2000s–present",
+    "project_ids": [
+      "BPM-003"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "nabjchicago.org — NABJ-CC bylaws",
+        "primary": true
+      },
+      {
+        "citation": "Wikipedia — National Association of Black Journalists (Chapter of the Year)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0294",
+    "type": "Organization",
+    "subtype": "civic",
+    "name": "The Woodlawn Organization",
+    "aliases": [
+      "TWO"
+    ],
+    "description": "South Side community organization formed in 1960 to fight displacement and racial discrimination in Woodlawn.",
+    "era": "1960–present",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "The Chicago Reporter — Woodlawn: A battle, a truce and new alliances",
+        "primary": false
+      },
+      {
+        "citation": "University of Chicago Library — Center for Urban Studies records",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0295",
+    "type": "Organization",
+    "subtype": "professional",
+    "name": "Organization of Black American Culture",
+    "aliases": [
+      "OBAC",
+      "OBA-C"
+    ],
+    "description": "1967 South Side collective of Black writers, artists, and intellectuals; produced the Wall of Respect mural and the magazine Nommo.",
+    "era": "1967–1990s",
+    "project_ids": [
+      "BCI-001",
+      "BPM-003",
+      "BVM-005"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Organization of Black American Culture",
+        "primary": false
+      },
+      {
+        "citation": "African American Registry — OBAC is formed",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0296",
+    "type": "Organization",
+    "subtype": "civil-rights",
+    "name": "Operation Breadbasket",
+    "aliases": [
+      "SCLC Operation Breadbasket"
+    ],
+    "description": "SCLC economic-justice program (1962–1971); its Chicago chapter, headed by Jesse Jackson from 1966, used boycotts to win Black jobs.",
+    "era": "1962–1971",
+    "project_ids": [
+      "BCI-001",
+      "SCI-004"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Operation Breadbasket",
+        "primary": false
+      },
+      {
+        "citation": "African American Registry — Operation Breadbasket is formed",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0297",
+    "type": "Organization",
+    "subtype": "professional",
+    "name": "Afro-American Patrolmen's League",
+    "aliases": [
+      "African American Police League",
+      "AAPL"
+    ],
+    "description": "Organization of Black Chicago police officers founded in 1968 to demand police reform and protect Black communities.",
+    "era": "1968–present",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Chicago History Museum — The Afro-American Patrolmen's League",
+        "primary": true
+      },
+      {
+        "citation": "Wikipedia — Afro-American Patrolmen's League",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0298",
+    "type": "Organization",
+    "subtype": "professional",
+    "name": "National Black MBA Association",
+    "aliases": [
+      "NBMBAA"
+    ],
+    "description": "Professional association of Black business leaders, founded at the University of Chicago in 1970.",
+    "era": "1970–present",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Black Enterprise (via Free Online Library) — Black MBAs celebrate 32nd anniversary",
+        "primary": false
+      },
+      {
+        "citation": "MetroMBA — Society Spotlight: NBMBAA",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0299",
+    "type": "Organization",
+    "subtype": "political",
+    "name": "Illinois Legislative Black Caucus",
+    "aliases": [
+      "ILBC"
+    ],
+    "description": "Caucus of African American legislators in the Illinois General Assembly, formalized in 1968.",
+    "era": "1968–present",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Wikipedia — Illinois Legislative Black Caucus",
+        "primary": false
+      },
+      {
+        "citation": "Illinois General Assembly — SR0439 (93rd GA) caucus history",
+        "primary": true
+      }
+    ]
+  },
+  {
+    "id": "CTL-E-0300",
+    "type": "Organization",
+    "subtype": "civic",
+    "name": "Institute of Positive Education",
+    "aliases": [
+      "IPE"
+    ],
+    "description": "Chicago Black independent-education institution founded in 1969, advancing Afrocentric schooling.",
+    "era": "1969–present",
+    "project_ids": [
+      "BCI-001"
+    ],
+    "verification": "Verified",
+    "sources": [
+      {
+        "citation": "Encyclopedia.com — Haki R. Madhubuti",
+        "primary": false
+      },
+      {
+        "citation": "Essence — Black Independent Schools",
+        "primary": false
+      }
+    ]
+  }
+]
