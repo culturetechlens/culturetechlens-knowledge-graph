@@ -3,7 +3,7 @@
 
 Checks entities.json and relationships.json against schema.json:
   - required fields, types, and enum values
-  - unique, well-formed entity IDs (exactly 300 in the seed)
+  - unique, well-formed entity IDs (765 in the 2026-10-03 promotion)
   - no dangling relationship endpoints
   - no duplicate (from, to, type) edges
 Exit 0 = valid (warnings allowed), exit 1 = errors found.
@@ -12,7 +12,8 @@ import json
 import re
 import sys
 
-BASE = '/home/hatch/workspace/culturetechlens/knowledge-graph'
+import os
+BASE = os.path.dirname(os.path.abspath(__file__))
 errors, warnings = [], []
 
 
@@ -55,8 +56,8 @@ def main():
     ent_required = schema.get('entity_required_fields', [])
     rel_required = schema.get('relationship_required_fields', [])
 
-    if len(entities) != 300:
-        err(f'entities.json must contain exactly 300 entities (seed), found {len(entities)}')
+    if len(entities) != 765:
+        err(f'entities.json must contain exactly 765 entities (2026-10-03 promotion), found {len(entities)}')
 
     seen_ids = set()
     id2type = {}

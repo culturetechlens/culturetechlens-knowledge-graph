@@ -1,510 +1,655 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "conventions": {
-    "append_only": "Additive changes only. New entities get new IDs from the next free number. New relationship types and entity types may be appended in minor schema versions.",
-    "merge_path": "Each research package (BCI-001 … MUSIC-001) delivers entities.json / relationships.json fragments. On merge: (1) dedupe against existing entities via name+aliases (case-insensitive); (2) mint new IDs only for genuinely new entities; (3) keep the surviving ID on merge and record retired IDs; (4) validate with validate.py before commit.",
-    "no_invention": "Never invent facts, dates, addresses, or relationships. Mark Provisional rather than omitting; omit rather than inventing."
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "conventions": {
+  "append_only": "Additive changes only. New entities get new IDs from the next free number. New relationship types and entity types may be appended in minor schema versions.",
+  "merge_path": "Each research package (BCI-001 … MUSIC-001) delivers entities.json / relationships.json fragments. On merge: (1) dedupe against existing entities via name+aliases (case-insensitive); (2) mint new IDs only for genuinely new entities; (3) keep the surviving ID on merge and record retired IDs; (4) validate with validate.py before commit.",
+  "no_invention": "Never invent facts, dates, addresses, or relationships. Mark Provisional rather than omitting; omit rather than inventing."
+ },
+ "description": "Seed schema for the CultureTechLens Black Cultural Knowledge Graph: the long-term data backbone for Black cultural-intelligence infrastructure rooted in Chicago. The seven flagship research packages (BCI-001, BMI-002, BPM-003, SCI-004, BVM-005, PLACE-001, MUSIC-001) merge into this graph as they complete. Design is append-only: minor versions may add entity types, relationship types, and optional fields; existing records are never destructively rewritten and IDs are never reused.",
+ "entity_optional_fields": [
+  "subtype",
+  "notes"
+ ],
+ "entity_required_fields": [
+  "id",
+  "type",
+  "name",
+  "aliases",
+  "description",
+  "era",
+  "project_ids",
+  "verification",
+  "sources"
+ ],
+ "entity_types": {
+  "Address": {
+   "description": "A specific street address, intersection, or corridor. Only include when location is documented — never invent street numbers.",
+   "subtypes": [
+    "building",
+    "intersection",
+    "corridor",
+    "district",
+    "church",
+    "monument",
+    "site",
+    "memorial"
+   ]
   },
-  "description": "Seed schema for the CultureTechLens Black Cultural Knowledge Graph: the long-term data backbone for Black cultural-intelligence infrastructure rooted in Chicago. The seven flagship research packages (BCI-001, BMI-002, BPM-003, SCI-004, BVM-005, PLACE-001, MUSIC-001) merge into this graph as they complete. Design is append-only: minor versions may add entity types, relationship types, and optional fields; existing records are never destructively rewritten and IDs are never reused.",
-  "entity_optional_fields": [
-    "subtype",
-    "notes"
-  ],
-  "entity_required_fields": [
-    "id",
-    "type",
-    "name",
-    "aliases",
-    "description",
-    "era",
-    "project_ids",
-    "verification",
-    "sources"
-  ],
-  "entity_types": {
-    "Address": {
-      "description": "A specific street address, intersection, or corridor. Only include when location is documented — never invent street numbers.",
-      "subtypes": [
-        "building",
-        "intersection",
-        "corridor",
-        "district",
-        "church",
-        "monument",
-        "site",
-        "memorial"
-      ]
-    },
-    "Archive": {
-      "description": "An archival collection or repository.",
-      "subtypes": [
-        "collection",
-        "repository",
-        "other"
-      ]
-    },
-    "Business": {
-      "description": "A commercial enterprise (retail, services, manufacturing).",
-      "subtypes": [
-        "retail",
-        "bank",
-        "manufacturing",
-        "services",
-        "publishing-company",
-        "other"
-      ]
-    },
-    "Church": {
-      "description": "A congregation / church building.",
-      "subtypes": [
-        "baptist",
-        "ame",
-        "cogic",
-        "ucc",
-        "catholic",
-        "other"
-      ]
-    },
-    "Event": {
-      "description": "A dated occurrence: founding, opening, riot, election, parade, demolition, etc.",
-      "subtypes": [
-        "founding",
-        "opening",
-        "closing",
-        "riot",
-        "election",
-        "parade",
-        "demolition",
-        "migration",
-        "other"
-      ]
-    },
-    "Institution": {
-      "description": "A named institution: label, studio, museum, cultural center, bank, company HQ as institution.",
-      "subtypes": [
-        "label",
-        "studio",
-        "museum",
-        "cultural-center",
-        "bank",
-        "company",
-        "other",
-        "record-store"
-      ]
-    },
-    "Migration": {
-      "description": "A migration flow (reserved for research-package use; no seed instances).",
-      "subtypes": []
-    },
-    "Neighborhood": {
-      "description": "A Chicago neighborhood or community area.",
-      "subtypes": []
-    },
-    "Organization": {
-      "description": "A nonprofit, movement, association, or civic organization.",
-      "subtypes": [
-        "civil-rights",
-        "civic",
-        "professional",
-        "mutual-aid",
-        "political",
-        "other"
-      ]
-    },
-    "Person": {
-      "description": "An individual, or a named group/ensemble (use subtype 'group').",
-      "subtypes": [
-        "musician",
-        "group",
-        "politician",
-        "activist",
-        "businessperson",
-        "journalist",
-        "clergy",
-        "educator",
-        "scholar",
-        "writer",
-        "producer",
-        "dj",
-        "promoter",
-        "other"
-      ]
-    },
-    "Policy": {
-      "description": "A law, ordinance, covenant, or policy (reserved for research-package use; no seed instances).",
-      "subtypes": []
-    },
-    "Publication": {
-      "description": "A newspaper, magazine, or periodical title.",
-      "subtypes": [
-        "newspaper",
-        "magazine",
-        "journal",
-        "other"
-      ]
-    },
-    "RadioStation": {
-      "description": "A radio station.",
-      "subtypes": [
-        "am",
-        "fm",
-        "other"
-      ]
-    },
-    "School": {
-      "description": "A school, college, or university.",
-      "subtypes": [
-        "high-school",
-        "college",
-        "university",
-        "other"
-      ]
-    },
-    "Technology": {
-      "description": "A technology that shaped cultural practice (reserved; no seed instances).",
-      "subtypes": []
-    },
-    "Venue": {
-      "description": "A performance, nightlife, or gathering venue.",
-      "subtypes": [
-        "theater",
-        "ballroom",
-        "club",
-        "lounge",
-        "church-venue",
-        "other"
-      ]
-    },
-    "Work": {
-      "description": "A creative work: song, album, book, play, film.",
-      "subtypes": [
-        "song",
-        "album",
-        "book",
-        "play",
-        "film",
-        "other"
-      ]
-    }
+  "Archive": {
+   "description": "An archival collection or repository.",
+   "subtypes": [
+    "collection",
+    "repository",
+    "other"
+   ]
   },
-  "field_guidance": {
-    "aliases": "Array of alternate names/spellings; may be empty. Critical for deduplication.",
-    "description": "One factual line. No invented dates.",
-    "era": "Free-text era, e.g. '1950s–1970s', '1916–1970', 'contemporary'. Use broad ranges over precise dates you cannot verify.",
-    "id": "CTL-E-NNNN, unique, immutable.",
-    "name": "Canonical display name.",
-    "project_ids": "Non-empty array; at least one of the seven project IDs.",
-    "sources": "Non-empty array of {citation, primary}. citation is a short human-readable reference; primary is true for archival/government/institutional records, era newspapers, oral histories, and false for encyclopedias, retrospectives, reputable secondary journalism.",
-    "type": "One of entity_types keys.",
-    "verification": "Verified or Provisional."
+  "Business": {
+   "description": "A commercial enterprise (retail, services, manufacturing).",
+   "subtypes": [
+    "retail",
+    "bank",
+    "manufacturing",
+    "services",
+    "publishing-company",
+    "other"
+   ]
   },
-  "id_scheme": {
-    "entity": "CTL-E-NNNN, zero-padded (seed occupies CTL-E-0001 through CTL-E-0300; continue at CTL-E-0301)",
-    "rules": [
-      "IDs are assigned once and never changed.",
-      "IDs are never reused, even if an entity is retired.",
-      "When duplicate entities are merged, the surviving entity keeps its ID; the retired ID is noted in the survivor's record and never reassigned.",
-      "Research packages merging in later must mint new IDs from the next free number; they must never renumber seed entities."
-    ]
+  "Church": {
+   "description": "A congregation / church building.",
+   "subtypes": [
+    "baptist",
+    "ame",
+    "cogic",
+    "ucc",
+    "catholic",
+    "other"
+   ]
   },
-  "project_ids": [
-    "BCI-001",
-    "BMI-002",
-    "BPM-003",
-    "SCI-004",
-    "BVM-005",
-    "PLACE-001",
-    "MUSIC-001"
-  ],
-  "project_names": {
-    "BCI-001": "The Infrastructure of Black Chicago",
-    "BMI-002": "The Sound of Black Chicago",
-    "BPM-003": "The Black Press",
-    "BVM-005": "Bronzeville: Black Metropolis",
-    "MUSIC-001": "The Chicago Black Music Constellation",
-    "PLACE-001": "63rd Street: A Cultural Biography of a Chicago Corridor",
-    "SCI-004": "Sacred Ground (Black churches and civic infrastructure)"
+  "Event": {
+   "description": "A dated occurrence: founding, opening, riot, election, parade, demolition, etc.",
+   "subtypes": [
+    "founding",
+    "opening",
+    "closing",
+    "riot",
+    "election",
+    "parade",
+    "demolition",
+    "migration",
+    "other"
+   ]
   },
-  "relationship_required_fields": [
-    "from",
-    "to",
-    "type",
-    "evidence",
-    "source",
-    "verification"
-  ],
-  "relationship_rules": [
-    "Seed relationships are verified-only: every edge must be traceable to evidence. When in doubt, leave it out.",
-    "from/to must be valid entity IDs present in entities.json.",
-    "type must be one of relationship_types names, and the endpoint types must satisfy from_types/to_types.",
-    "evidence is 1–2 sentences stating what documents the relationship; source is a short citation.",
-    "verification is Verified or Provisional; Provisional edges must still have real evidence, only with some uncertainty."
-  ],
-  "relationship_types": [
-    {
-      "description": "Person was a member/employee/leader of the institution.",
-      "from_types": [
-        "Person"
-      ],
-      "name": "affiliated_with",
-      "to_types": [
-        "Church",
-        "Institution",
-        "Organization",
-        "Publication",
-        "RadioStation",
-        "School"
-      ]
-    },
-    {
-      "description": "Person lived in or is strongly associated with the neighborhood.",
-      "from_types": [
-        "Person"
-      ],
-      "name": "associated_with",
-      "to_types": [
-        "Neighborhood"
-      ]
-    },
-    {
-      "description": "Entity is/was located in the neighborhood.",
-      "from_types": [
-        "Institution",
-        "Venue",
-        "Business",
-        "Church",
-        "School",
-        "Publication",
-        "Organization",
-        "Archive",
-        "RadioStation",
-        "Address"
-      ],
-      "name": "located_in",
-      "to_types": [
-        "Neighborhood"
-      ]
-    },
-    {
-      "description": "Artist performed at the venue (documented).",
-      "from_types": [
-        "Person"
-      ],
-      "name": "performed_at",
-      "to_types": [
-        "Venue"
-      ]
-    },
-    {
-      "description": "Entity was founded by the person.",
-      "from_types": [
-        "Business",
-        "Church",
-        "Institution",
-        "Organization",
-        "Publication",
-        "RadioStation",
-        "School",
-        "Venue"
-      ],
-      "name": "founded_by",
-      "to_types": [
-        "Person"
-      ]
-    },
-    {
-      "description": "Organization organized or sponsored the event.",
-      "from_types": [
-        "Organization"
-      ],
-      "name": "organized",
-      "to_types": [
-        "Event"
-      ]
-    },
-    {
-      "description": "Person attended or graduated from the school.",
-      "from_types": [
-        "School"
-      ],
-      "name": "has_alumnus",
-      "to_types": [
-        "Person"
-      ]
-    },
-    {
-      "description": "Person wrote for / edited the publication.",
-      "from_types": [
-        "Publication"
-      ],
-      "name": "wrote_for",
-      "to_types": [
-        "Person"
-      ]
-    },
-    {
-      "description": "Station featured the person as host/personality/DJ.",
-      "from_types": [
-        "RadioStation"
-      ],
-      "name": "hosted",
-      "to_types": [
-        "Person"
-      ]
-    },
-    {
-      "description": "Entity's records are held by the archive.",
-      "from_types": [
-        "Institution",
-        "Venue",
-        "Business",
-        "Church",
-        "School",
-        "Publication",
-        "Organization",
-        "Archive"
-      ],
-      "name": "archived_at",
-      "to_types": [
-        "Archive"
-      ]
-    },
-    {
-      "description": "Event took place at the location.",
-      "from_types": [
-        "Event"
-      ],
-      "name": "held_at",
-      "to_types": [
-        "Address",
-        "Church",
-        "Institution",
-        "Neighborhood",
-        "School",
-        "Venue"
-      ]
-    },
-    {
-      "description": "Neighborhood was shaped by the policy. (Schema-ready; no seed instances.)",
-      "from_types": [
-        "Neighborhood"
-      ],
-      "name": "impacted_by",
-      "to_types": [
-        "Policy"
-      ]
-    },
-    {
-      "description": "Migration flow connected to the geography. (Schema-ready; no seed instances.)",
-      "from_types": [
-        "Migration"
-      ],
-      "name": "migration_link",
-      "to_types": [
-        "Neighborhood",
-        "Address"
-      ]
-    },
-    {
-      "description": "Documented artistic/professional collaboration (artist–producer, artist–artist).",
-      "from_types": [
-        "Person"
-      ],
-      "name": "collaborated_with",
-      "to_types": [
-        "Person"
-      ]
-    },
-    {
-      "description": "Artist recorded for the label (label entities use Institution with subtype 'label').",
-      "from_types": [
-        "Person"
-      ],
-      "name": "recorded_for",
-      "to_types": [
-        "Institution"
-      ]
-    },
-    {
-      "description": "Church nurtured the musician (choir, music director, early performance).",
-      "from_types": [
-        "Church"
-      ],
-      "name": "nurtured",
-      "to_types": [
-        "Person"
-      ]
-    },
-    {
-      "description": "The 'from' work samples the 'to' work (documented).",
-      "from_types": [
-        "Work"
-      ],
-      "name": "samples",
-      "to_types": [
-        "Work"
-      ]
-    },
-    {
-      "description": "DJ held a residency or defining gig at the club/venue.",
-      "from_types": [
-        "Person"
-      ],
-      "name": "played",
-      "to_types": [
-        "Venue"
-      ]
-    },
-    {
-      "description": "Label was distributed by the distributor.",
-      "from_types": [
-        "Institution"
-      ],
-      "name": "distributed_by",
-      "to_types": [
-        "Institution"
-      ]
-    },
-    {
-      "name": "initiated",
-      "from_types": [
-        "Person"
-      ],
-      "to_types": [
-        "Event"
-      ],
-      "description": "Person initiated, founded, or called for the event."
-    },
-    {
-      "name": "related_to",
-      "from_types": [
-        "Person"
-      ],
-      "to_types": [
-        "Person"
-      ],
-      "description": "Documented personal or professional relationship (family, mentorship, succession); the specific nature goes in evidence."
-    },
-    {
-      "name": "authored_by",
-      "from_types": [
-        "Work"
-      ],
-      "to_types": [
-        "Person"
-      ],
-      "description": "The work was created/written by the person (documented authorship)."
-    }
-  ],
-  "title": "CTL Black Cultural Knowledge Graph — Schema",
-  "verification_levels": [
-    "Verified",
-    "Provisional"
-  ],
-  "verification_rules": {
-    "Provisional": "The entity is believed real and correctly described, but some detail (dates, exact address, attribution) is uncertain or single-sourced. Prefer Provisional over omitting a valuable entity — but NEVER invent facts, dates, addresses, or relationships to fill gaps.",
-    "Verified": "The entity's existence and core facts are well documented in reliable sources. Use for entities with solid sourcing.",
-    "forbidden": "Do not manufacture claims, dates, addresses, or relationships. Do not infer an occupant from an address without evidence. Separate documented evidence from interpretation."
+  "Institution": {
+   "description": "A named institution: label, studio, museum, cultural center, bank, company HQ as institution.",
+   "subtypes": [
+    "label",
+    "studio",
+    "museum",
+    "cultural-center",
+    "bank",
+    "company",
+    "other",
+    "record-store"
+   ]
   },
-  "version": "0.1.1"
+  "Migration": {
+   "description": "A migration flow (reserved for research-package use; no seed instances).",
+   "subtypes": []
+  },
+  "Neighborhood": {
+   "description": "A Chicago neighborhood or community area.",
+   "subtypes": []
+  },
+  "Organization": {
+   "description": "A nonprofit, movement, association, or civic organization.",
+   "subtypes": [
+    "civil-rights",
+    "civic",
+    "professional",
+    "mutual-aid",
+    "political",
+    "other"
+   ]
+  },
+  "Person": {
+   "description": "An individual, or a named group/ensemble (use subtype 'group').",
+   "subtypes": [
+    "musician",
+    "group",
+    "politician",
+    "activist",
+    "businessperson",
+    "journalist",
+    "clergy",
+    "educator",
+    "scholar",
+    "writer",
+    "producer",
+    "dj",
+    "promoter",
+    "other"
+   ]
+  },
+  "Policy": {
+   "description": "A law, ordinance, covenant, or policy (reserved for research-package use; no seed instances).",
+   "subtypes": []
+  },
+  "Publication": {
+   "description": "A newspaper, magazine, or periodical title.",
+   "subtypes": [
+    "newspaper",
+    "magazine",
+    "journal",
+    "other"
+   ]
+  },
+  "RadioStation": {
+   "description": "A radio station.",
+   "subtypes": [
+    "am",
+    "fm",
+    "other"
+   ]
+  },
+  "School": {
+   "description": "A school, college, or university.",
+   "subtypes": [
+    "high-school",
+    "college",
+    "university",
+    "other"
+   ]
+  },
+  "Technology": {
+   "description": "A technology that shaped cultural practice (reserved; no seed instances).",
+   "subtypes": []
+  },
+  "Venue": {
+   "description": "A performance, nightlife, or gathering venue.",
+   "subtypes": [
+    "theater",
+    "ballroom",
+    "club",
+    "lounge",
+    "church-venue",
+    "other"
+   ]
+  },
+  "Work": {
+   "description": "A creative work: song, album, book, play, film.",
+   "subtypes": [
+    "song",
+    "album",
+    "book",
+    "play",
+    "film",
+    "other"
+   ]
+  },
+  "Practice": {
+   "description": "A living cultural practice: a dance, ritual, craft, or social form sustained by a community.",
+   "subtypes": [
+    "dance",
+    "music",
+    "ritual",
+    "craft",
+    "other"
+   ]
+  }
+ },
+ "field_guidance": {
+  "aliases": "Array of alternate names/spellings; may be empty. Critical for deduplication.",
+  "description": "One factual line. No invented dates.",
+  "era": "Free-text era, e.g. '1950s–1970s', '1916–1970', 'contemporary'. Use broad ranges over precise dates you cannot verify.",
+  "id": "CTL-E-NNNN, unique, immutable.",
+  "name": "Canonical display name.",
+  "project_ids": "Non-empty array; at least one registered project ID.",
+  "sources": "Non-empty array of {citation, primary}. citation is a short human-readable reference; primary is true for archival/government/institutional records, era newspapers, oral histories, and false for encyclopedias, retrospectives, reputable secondary journalism.",
+  "type": "One of entity_types keys.",
+  "verification": "Verified or Provisional."
+ },
+ "id_scheme": {
+  "entity": "CTL-E-NNNN, zero-padded (seed occupies CTL-E-0001 through CTL-E-0300; continue at CTL-E-0301)",
+  "rules": [
+   "IDs are assigned once and never changed.",
+   "IDs are never reused, even if an entity is retired.",
+   "When duplicate entities are merged, the surviving entity keeps its ID; the retired ID is noted in the survivor's record and never reassigned.",
+   "Research packages merging in later must mint new IDs from the next free number; they must never renumber seed entities."
+  ]
+ },
+ "project_ids": [
+  "BCI-001",
+  "BMI-002",
+  "BPM-003",
+  "SCI-004",
+  "BVM-005",
+  "PLACE-001",
+  "MUSIC-001",
+  "D9-001",
+  "REGAL-001",
+  "CTL-RB-MUS-000005",
+  "OPEN-DATA-001",
+  "ECON-001",
+  "GLOBAL-001",
+  "INST-001",
+  "LIFE-001",
+  "MEDIA-001",
+  "PRESERVE-001",
+  "TECH-001",
+  "PER-000002"
+ ],
+ "project_names": {
+  "BCI-001": "The Infrastructure of Black Chicago",
+  "BMI-002": "The Sound of Black Chicago",
+  "BPM-003": "The Black Press",
+  "BVM-005": "Bronzeville: Black Metropolis",
+  "MUSIC-001": "The Chicago Black Music Constellation",
+  "PLACE-001": "63rd Street: A Cultural Biography of a Chicago Corridor",
+  "SCI-004": "Sacred Ground (Black churches and civic infrastructure)",
+  "ECON-001": "The Black Business Ecosystem",
+  "GLOBAL-001": "The Black Cultural World System",
+  "INST-001": "The Institutions That Held Communities Together",
+  "LIFE-001": "How We Lived: An Encyclopedia of Black Everyday Life",
+  "MEDIA-001": "Who Controls the Story? The Black Media Infrastructure of America",
+  "PRESERVE-001": "The Black Memory Emergency",
+  "TECH-001": "Black Technology: Invention, Adaptation and Digital Life"
+ },
+ "relationship_required_fields": [
+  "from",
+  "to",
+  "type",
+  "evidence",
+  "source",
+  "verification"
+ ],
+ "relationship_rules": [
+  "Seed relationships are verified-only: every edge must be traceable to evidence. When in doubt, leave it out.",
+  "from/to must be valid entity IDs present in entities.json.",
+  "type must be one of relationship_types names, and the endpoint types must satisfy from_types/to_types.",
+  "evidence is 1–2 sentences stating what documents the relationship; source is a short citation.",
+  "verification is Verified or Provisional; Provisional edges must still have real evidence, only with some uncertainty."
+ ],
+ "relationship_types": [
+  {
+   "description": "Person was a member/employee/leader of the institution.",
+   "from_types": [
+    "Person"
+   ],
+   "name": "affiliated_with",
+   "to_types": [
+    "Church",
+    "Institution",
+    "Organization",
+    "Publication",
+    "RadioStation",
+    "School"
+   ]
+  },
+  {
+   "description": "Person lived in or is strongly associated with the neighborhood.",
+   "from_types": [
+    "Person"
+   ],
+   "name": "associated_with",
+   "to_types": [
+    "Neighborhood"
+   ]
+  },
+  {
+   "description": "Entity is/was located in the neighborhood.",
+   "from_types": [
+    "Institution",
+    "Venue",
+    "Business",
+    "Church",
+    "School",
+    "Publication",
+    "Organization",
+    "Archive",
+    "RadioStation",
+    "Address"
+   ],
+   "name": "located_in",
+   "to_types": [
+    "Neighborhood"
+   ]
+  },
+  {
+   "description": "Artist performed at the venue (documented).",
+   "from_types": [
+    "Person",
+    "Practice"
+   ],
+   "name": "performed_at",
+   "to_types": [
+    "Venue"
+   ]
+  },
+  {
+   "description": "Entity was founded by the person.",
+   "from_types": [
+    "Business",
+    "Church",
+    "Institution",
+    "Organization",
+    "Publication",
+    "RadioStation",
+    "School",
+    "Venue"
+   ],
+   "name": "founded_by",
+   "to_types": [
+    "Person"
+   ]
+  },
+  {
+   "description": "Organization organized or sponsored the event.",
+   "from_types": [
+    "Organization"
+   ],
+   "name": "organized",
+   "to_types": [
+    "Event"
+   ]
+  },
+  {
+   "description": "Person attended or graduated from the school.",
+   "from_types": [
+    "School"
+   ],
+   "name": "has_alumnus",
+   "to_types": [
+    "Person"
+   ]
+  },
+  {
+   "description": "Person wrote for / edited the publication.",
+   "from_types": [
+    "Publication"
+   ],
+   "name": "wrote_for",
+   "to_types": [
+    "Person"
+   ]
+  },
+  {
+   "description": "Station featured the person as host/personality/DJ.",
+   "from_types": [
+    "RadioStation"
+   ],
+   "name": "hosted",
+   "to_types": [
+    "Person"
+   ]
+  },
+  {
+   "description": "Entity's records are held by the archive.",
+   "from_types": [
+    "Institution",
+    "Venue",
+    "Business",
+    "Church",
+    "School",
+    "Publication",
+    "Organization",
+    "Archive"
+   ],
+   "name": "archived_at",
+   "to_types": [
+    "Archive"
+   ]
+  },
+  {
+   "description": "Event took place at the location.",
+   "from_types": [
+    "Event"
+   ],
+   "name": "held_at",
+   "to_types": [
+    "Address",
+    "Church",
+    "Institution",
+    "Neighborhood",
+    "School",
+    "Venue"
+   ]
+  },
+  {
+   "description": "Neighborhood was shaped by the policy. (Schema-ready; no seed instances.)",
+   "from_types": [
+    "Neighborhood"
+   ],
+   "name": "impacted_by",
+   "to_types": [
+    "Policy"
+   ]
+  },
+  {
+   "description": "Migration flow connected to the geography. (Schema-ready; no seed instances.)",
+   "from_types": [
+    "Migration"
+   ],
+   "name": "migration_link",
+   "to_types": [
+    "Neighborhood",
+    "Address"
+   ]
+  },
+  {
+   "description": "Documented artistic/professional collaboration (artist–producer, artist–artist).",
+   "from_types": [
+    "Person"
+   ],
+   "name": "collaborated_with",
+   "to_types": [
+    "Person"
+   ]
+  },
+  {
+   "description": "Artist recorded for the label (label entities use Institution with subtype 'label').",
+   "from_types": [
+    "Person"
+   ],
+   "name": "recorded_for",
+   "to_types": [
+    "Institution"
+   ]
+  },
+  {
+   "description": "Church nurtured the musician (choir, music director, early performance).",
+   "from_types": [
+    "Church"
+   ],
+   "name": "nurtured",
+   "to_types": [
+    "Person"
+   ]
+  },
+  {
+   "description": "The 'from' work samples the 'to' work (documented).",
+   "from_types": [
+    "Work"
+   ],
+   "name": "samples",
+   "to_types": [
+    "Work"
+   ]
+  },
+  {
+   "description": "DJ held a residency or defining gig at the club/venue.",
+   "from_types": [
+    "Person"
+   ],
+   "name": "played",
+   "to_types": [
+    "Venue"
+   ]
+  },
+  {
+   "description": "Label was distributed by the distributor.",
+   "from_types": [
+    "Institution"
+   ],
+   "name": "distributed_by",
+   "to_types": [
+    "Institution"
+   ]
+  },
+  {
+   "name": "initiated",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Event"
+   ],
+   "description": "Person initiated, founded, or called for the event."
+  },
+  {
+   "name": "related_to",
+   "from_types": [
+    "Person",
+    "Practice",
+    "Event"
+   ],
+   "to_types": [
+    "Person",
+    "Practice",
+    "Event"
+   ],
+   "description": "Documented personal or professional relationship (family, mentorship, succession); the specific nature goes in evidence."
+  },
+  {
+   "name": "authored_by",
+   "from_types": [
+    "Work"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "The work was created/written by the person (documented authorship)."
+  },
+  {
+   "description": "Organization is a member of an umbrella Organization (e.g., NPHC).",
+   "from_types": [
+    "Organization"
+   ],
+   "name": "member_of",
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "description": "Organization was founded at a School/institution.",
+   "from_types": [
+    "Organization"
+   ],
+   "name": "founded_at",
+   "to_types": [
+    "School",
+    "Institution"
+   ]
+  },
+  {
+   "description": "Organization is constitutionally bound to another Organization.",
+   "from_types": [
+    "Organization"
+   ],
+   "name": "constitutionally_bound_to",
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "description": "Venue was renamed in honor of another Venue.",
+   "from_types": [
+    "Venue"
+   ],
+   "name": "renamed_in_honor_of",
+   "to_types": [
+    "Venue"
+   ]
+  },
+  {
+   "name": "head_coach_of",
+   "description": "Person serves/served as head coach of the team/program.",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "assistant_coach_at",
+   "description": "Person serves/served as an assistant/position coach.",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "defensive_coordinator_at",
+   "description": "Person serves/served as defensive coordinator.",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "played_for",
+   "description": "Person played for the team/program.",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "drafted_by",
+   "description": "Person was drafted by the team.",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "practice_squad_member_of",
+   "description": "Person was a practice-squad member of the team.",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "worked_under",
+   "description": "Person worked under the other person (supervisor/mentor).",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ]
+  }
+ ],
+ "title": "CTL Black Cultural Knowledge Graph — Schema",
+ "verification_levels": [
+  "Verified",
+  "Provisional"
+ ],
+ "verification_rules": {
+  "Provisional": "The entity is believed real and correctly described, but some detail (dates, exact address, attribution) is uncertain or single-sourced. Prefer Provisional over omitting a valuable entity — but NEVER invent facts, dates, addresses, or relationships to fill gaps.",
+  "Verified": "The entity's existence and core facts are well documented in reliable sources. Use for entities with solid sourcing.",
+  "forbidden": "Do not manufacture claims, dates, addresses, or relationships. Do not infer an occupant from an address without evidence. Separate documented evidence from interpretation."
+ },
+ "version": "0.2.0"
 }
