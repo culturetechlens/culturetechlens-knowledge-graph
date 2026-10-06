@@ -12,6 +12,8 @@ The data backbone of CultureTechLens — Black cultural-intelligence infrastruct
 
 **Current release (2026-10-03): 765 entities · 271 relationships.** This release promotes the full verified tier of the CultureTechLens master graph (1,441 entities) to the public graph — up from the 300-entity seed of 2026-09-28 — and folds in the Marcus Freeman dossier (CTL-RD-PER-000002) entities, including Freeman himself (CTL-E-1412).
 
+> **Mirror status — updated 2026-10-06:** This repository is a versioned public release, not a live mirror — it trails the production knowledge graph by design. Production stands at 1,827 entities and 1,952 relationships as of 2026-10-06; the full public snapshot (1,441 entities, October 2026) is browsable at [culturetechlens.com/graph/](https://culturetechlens.com/graph/).
+
 ## What is here
 
 | File | Contents |
