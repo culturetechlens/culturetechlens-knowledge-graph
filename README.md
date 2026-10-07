@@ -62,8 +62,8 @@ Entities and relationships are graded: VERIFIED · SUPPORTED · PROVISIONAL · D
 
 ## License
 
-- All data files (JSON) and documentation (Markdown): Creative Commons Attribution 4.0 International (CC BY 4.0). You may share and adapt with attribution to CultureTechLens.
-- All code (including `validate.py`): MIT License.
+- All data files (JSON) and documentation (Markdown): Creative Commons Attribution 4.0 International (CC BY 4.0) — see [LICENSE](LICENSE).
+- All code (including `validate.py`): MIT License — see [LICENSE-CODE](LICENSE-CODE).
 
 Copyright 2026 CultureTechLens NFP (EIN 39-3143901).
 
