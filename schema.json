@@ -3,7 +3,9 @@
  "conventions": {
   "append_only": "Additive changes only. New entities get new IDs from the next free number. New relationship types and entity types may be appended in minor schema versions.",
   "merge_path": "Each research package (BCI-001 … MUSIC-001) delivers entities.json / relationships.json fragments. On merge: (1) dedupe against existing entities via name+aliases (case-insensitive); (2) mint new IDs only for genuinely new entities; (3) keep the surviving ID on merge and record retired IDs; (4) validate with validate.py before commit.",
-  "no_invention": "Never invent facts, dates, addresses, or relationships. Mark Provisional rather than omitting; omit rather than inventing."
+  "no_invention": "Never invent facts, dates, addresses, or relationships. Mark Provisional rather than omitting; omit rather than inventing.",
+  "legacy_ids": "Grandfathered pre-schema IDs (per-*/org-*/place-*) from the 2026-10 Freeman research batch. These IDs are published on the website and are never renumbered. Registered here so validate.py accepts them; no new legacy IDs may be minted.",
+  "negative_assertions": "Claims like 'no physical headquarters' or 'no employees' require evidence and an expiration/review date, because they can change. Mark Provisional with next_review_date set."
  },
  "description": "Seed schema for the CultureTechLens Black Cultural Knowledge Graph: the long-term data backbone for Black cultural-intelligence infrastructure rooted in Chicago. The seven flagship research packages (BCI-001, BMI-002, BPM-003, SCI-004, BVM-005, PLACE-001, MUSIC-001) merge into this graph as they complete. Design is append-only: minor versions may add entity types, relationship types, and optional fields; existing records are never destructively rewritten and IDs are never reused.",
  "entity_optional_fields": [
@@ -51,7 +53,9 @@
     "manufacturing",
     "services",
     "publishing-company",
-    "other"
+    "other",
+    "studio",
+    "tv-station"
    ]
   },
   "Church": {
@@ -127,7 +131,10 @@
     "producer",
     "dj",
     "promoter",
-    "other"
+    "other",
+    "physician",
+    "artist",
+    "aviator"
    ]
   },
   "Policy": {
@@ -195,6 +202,14 @@
     "craft",
     "other"
    ]
+  },
+  "Locality": {
+   "description": "A city, town, stadium, or other named place outside the Chicago-neighborhood scope.",
+   "subtypes": [
+    "city",
+    "stadium",
+    "other"
+   ]
   }
  },
  "field_guidance": {
@@ -206,7 +221,11 @@
   "project_ids": "Non-empty array; at least one registered project ID.",
   "sources": "Non-empty array of {citation, primary}. citation is a short human-readable reference; primary is true for archival/government/institutional records, era newspapers, oral histories, and false for encyclopedias, retrospectives, reputable secondary journalism.",
   "type": "One of entity_types keys.",
-  "verification": "Verified or Provisional."
+  "verification": "Verified or Provisional.",
+  "relationship_start_date": "YYYY-MM-DD the relationship began; null when undocumented. Never invent.",
+  "relationship_end_date": "YYYY-MM-DD the relationship ended; null if ongoing or unknown.",
+  "relationship_confidence": "high | medium | low — the author's confidence in the edge.",
+  "relationship_evidence_id": "CTL-EVD-* ID when the edge maps to a package evidence record; null otherwise (evidence prose still required)."
  },
  "id_scheme": {
   "entity": "CTL-E-NNNN, zero-padded (seed occupies CTL-E-0001 through CTL-E-0300; continue at CTL-E-0301)",
@@ -236,7 +255,14 @@
   "MEDIA-001",
   "PRESERVE-001",
   "TECH-001",
-  "PER-000002"
+  "CTL-SELF-001",
+  "FREEMAN-001",
+  "BCI3-001",
+  "PPL-001",
+  "BLK4-001",
+  "RELP-001",
+  "BCCVA-001",
+  "CHURCH-WEALTH-001"
  ],
  "project_names": {
   "BCI-001": "The Infrastructure of Black Chicago",
@@ -252,7 +278,14 @@
   "LIFE-001": "How We Lived: An Encyclopedia of Black Everyday Life",
   "MEDIA-001": "Who Controls the Story? The Black Media Infrastructure of America",
   "PRESERVE-001": "The Black Memory Emergency",
-  "TECH-001": "Black Technology: Invention, Adaptation and Digital Life"
+  "TECH-001": "Black Technology: Invention, Adaptation and Digital Life",
+  "CTL-SELF-001": "CultureTechLens Institutional Self-Record",
+  "FREEMAN-001": "Marcus Freeman: Coaching Career, Family, and the Black Head-Coach Pipeline",
+  "BCI3-001": "Black Chicago Institutions — Batch 3 (Archdiocese, Shrine succession, cultural institutions)",
+  "PPL-001": "Named People: 15 Public Figures (2026-10-05 batch)",
+  "RELP-001": "Relationship-production campaign",
+  "BCCVA-001": "Black Chicago Civic Voice Archive",
+  "CHURCH-WEALTH-001": "Black Wealth in the Pews — Church Wealth Entities"
  },
  "relationship_required_fields": [
   "from",
@@ -282,7 +315,8 @@
     "Organization",
     "Publication",
     "RadioStation",
-    "School"
+    "School",
+    "Business"
    ]
   },
   {
@@ -335,7 +369,10 @@
     "Publication",
     "RadioStation",
     "School",
-    "Venue"
+    "Venue",
+    "Archive",
+    "Person",
+    "Event"
    ],
    "name": "founded_by",
    "to_types": [
@@ -355,7 +392,9 @@
   {
    "description": "Person attended or graduated from the school.",
    "from_types": [
-    "School"
+    "School",
+    "Institution",
+    "Organization"
    ],
    "name": "has_alumnus",
    "to_types": [
@@ -411,7 +450,8 @@
     "Institution",
     "Neighborhood",
     "School",
-    "Venue"
+    "Venue",
+    "Locality"
    ]
   },
   {
@@ -571,73 +611,387 @@
    ]
   },
   {
+   "name": "led_by",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person holds the chief executive office of the organization (e.g., president)."
+  },
+  {
+   "name": "registered_in",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Institution"
+   ],
+   "description": "Organization is legally registered or incorporated under the jurisdiction."
+  },
+  {
+   "name": "tax_exemption_granted_by",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Institution"
+   ],
+   "description": "Tax authority granted the organization's exempt status."
+  },
+  {
+   "name": "profiled_by",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Institution"
+   ],
+   "description": "Directory or evaluator maintains a public profile of the organization."
+  },
+  {
+   "name": "operates",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Institution"
+   ],
+   "description": "Organization operates the named digital property or institutional arm."
+  },
+  {
+   "name": "publishes",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Work"
+   ],
+   "description": "Organization published the research work."
+  },
+  {
    "name": "head_coach_of",
-   "description": "Person serves/served as head coach of the team/program.",
    "from_types": [
     "Person"
    ],
    "to_types": [
     "Organization"
-   ]
+   ],
+   "description": "Person served as head coach of the team/program."
   },
   {
    "name": "assistant_coach_at",
-   "description": "Person serves/served as an assistant/position coach.",
    "from_types": [
     "Person"
    ],
    "to_types": [
     "Organization"
-   ]
-  },
-  {
-   "name": "defensive_coordinator_at",
-   "description": "Person serves/served as defensive coordinator.",
-   "from_types": [
-    "Person"
    ],
-   "to_types": [
-    "Organization"
-   ]
-  },
-  {
-   "name": "played_for",
-   "description": "Person played for the team/program.",
-   "from_types": [
-    "Person"
-   ],
-   "to_types": [
-    "Organization"
-   ]
-  },
-  {
-   "name": "drafted_by",
-   "description": "Person was drafted by the team.",
-   "from_types": [
-    "Person"
-   ],
-   "to_types": [
-    "Organization"
-   ]
+   "description": "Person served as an assistant coach with the program."
   },
   {
    "name": "practice_squad_member_of",
-   "description": "Person was a practice-squad member of the team.",
    "from_types": [
     "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ],
+   "description": "Person was on the organization's practice squad (not the active roster)."
+  },
+  {
+   "name": "defensive_coordinator_at",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ],
+   "description": "Person served as defensive coordinator of the program."
+  },
+  {
+   "name": "child_of",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person is the child of the person (documented parentage)."
+  },
+  {
+   "name": "succeeded_as_head_coach",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person succeeded the person as head coach."
+  },
+  {
+   "name": "second_black_head_coach_after",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person was the second Black head coach of the program after the person."
+  },
+  {
+   "name": "played_for",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ],
+   "description": "Person played for the team/program as a player."
+  },
+  {
+   "name": "drafted_by",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ],
+   "description": "Person was selected by the organization in a draft."
+  },
+  {
+   "name": "hired_by",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person was hired by the person."
+  },
+  {
+   "name": "reports_to_athletics_director",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Coach reports to the athletics director."
+  },
+  {
+   "name": "member_of_organization",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization"
+   ],
+   "description": "Person is a member of the organization."
+  },
+  {
+   "name": "did_not_promote_to_coordinator",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Head coach did not promote the assistant to coordinator (documented staffing decision)."
+  },
+  {
+   "name": "married_to",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person is married to the person."
+  },
+  {
+   "name": "worked_under",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person coached or worked on the staff of the person."
+  },
+  {
+   "name": "plays_home_games_at",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Locality"
+   ],
+   "description": "Team plays its home games at the venue."
+  },
+  {
+   "name": "coached_championship_game_at",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Locality"
+   ],
+   "description": "Person coached a championship game at the venue."
+  },
+  {
+   "name": "based_in",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Locality"
+   ],
+   "description": "Person's professional base is the locality."
+  },
+  {
+   "name": "from",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Locality"
+   ],
+   "description": "Person is from the locality (hometown/origin)."
+  },
+  {
+   "name": "opposing_coach_in_cfp_semifinal",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Person"
+   ],
+   "description": "Person coached against the person in a College Football Playoff semifinal."
+  },
+  {
+   "name": "founded",
+   "from_types": [
+    "Person"
+   ],
+   "to_types": [
+    "Organization",
+    "Publication",
+    "Institution"
+   ],
+   "description": "Person founded the organization."
+  },
+  {
+   "name": "parish_of",
+   "description": "Church is a parish (or equivalent constituent congregation) of the diocese/archdiocese/denominational body. Applies mainly to Catholic and other hierarchical traditions.",
+   "from_types": [
+    "Church"
    ],
    "to_types": [
     "Organization"
    ]
   },
   {
-   "name": "worked_under",
-   "description": "Person worked under the other person (supervisor/mentor).",
+   "name": "has_parish",
+   "description": "Diocese/archdiocese/denominational body has the church as one of its parishes. Inverse of parish_of.",
    "from_types": [
-    "Person"
+    "Organization"
    ],
    "to_types": [
-    "Person"
+    "Church"
+   ]
+  },
+  {
+   "name": "succeeded_by",
+   "description": "Church was succeeded by another church (closure, merger, or renaming where the later congregation continues the earlier one's lineage).",
+   "from_types": [
+    "Church"
+   ],
+   "to_types": [
+    "Church"
+   ]
+  },
+  {
+   "name": "succeeded",
+   "description": "Church succeeded an earlier church (continues its lineage after closure, merger, or renaming). Inverse of succeeded_by.",
+   "from_types": [
+    "Church"
+   ],
+   "to_types": [
+    "Church"
+   ]
+  },
+  {
+   "name": "hosted_congregation",
+   "description": "Church's building hosted another congregation's worship (shared space, guest congregation, or temporary housing).",
+   "from_types": [
+    "Church"
+   ],
+   "to_types": [
+    "Church"
+   ]
+  },
+  {
+   "name": "hosted_congregation_by",
+   "description": "Church's congregation was hosted in another church's building. Inverse of hosted_congregation.",
+   "from_types": [
+    "Church"
+   ],
+   "to_types": [
+    "Church"
+   ]
+  },
+  {
+   "name": "partnered_with",
+   "description": "Organization partnered with another organization on programs, campaigns, or shared initiatives. Symmetric: if A partnered_with B, B partnered_with A.",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "member_congregation_of",
+   "description": "Church is a member congregation of the organization (association, convention, fellowship, or movement body).",
+   "from_types": [
+    "Church"
+   ],
+   "to_types": [
+    "Organization"
+   ]
+  },
+  {
+   "name": "has_member_congregation",
+   "description": "Organization counts the church among its member congregations. Inverse of member_congregation_of.",
+   "from_types": [
+    "Organization"
+   ],
+   "to_types": [
+    "Church"
+   ]
+  },
+  {
+   "name": "served_neighborhood",
+   "description": "Church's ministry or congregation primarily served the neighborhood or locality (distinct from located_in: a church may be located in one place and serve another).",
+   "from_types": [
+    "Church"
+   ],
+   "to_types": [
+    "Neighborhood",
+    "Locality"
+   ]
+  },
+  {
+   "name": "served_by",
+   "description": "Neighborhood or locality was served by the church's ministry or congregation. Inverse of served_neighborhood.",
+   "from_types": [
+    "Neighborhood",
+    "Locality"
+   ],
+   "to_types": [
+    "Church"
    ]
   }
  ],
@@ -651,5 +1005,187 @@
   "Verified": "The entity's existence and core facts are well documented in reliable sources. Use for entities with solid sourcing.",
   "forbidden": "Do not manufacture claims, dates, addresses, or relationships. Do not infer an occupant from an address without evidence. Separate documented evidence from interpretation."
  },
- "version": "0.2.0"
+ "version": "0.2.5",
+ "legacy_ids": [
+  "org-buffalo-bills",
+  "org-chicago-bears",
+  "org-cincinnati-bearcats-football",
+  "org-houston-texans",
+  "org-kent-state-football",
+  "org-ncmfc",
+  "org-notre-dame-football",
+  "org-ohio-state-football",
+  "org-purdue-football",
+  "per-ash-chris",
+  "per-bevacqua-pete",
+  "per-chow-norm",
+  "per-edmonds-wayne",
+  "per-fickell-luke",
+  "per-franklin-james",
+  "per-freeman-chong",
+  "per-freeman-joanna",
+  "per-freeman-michael",
+  "per-golden-al",
+  "per-kelly-brian",
+  "per-locksley-mike",
+  "per-mickens-mike",
+  "per-swarbrick-jack",
+  "per-tucker-mel",
+  "per-willingham-tyrone",
+  "place-huber-heights-ohio",
+  "place-mercedes-benz-stadium",
+  "place-notre-dame-stadium",
+  "place-south-bend-indiana"
+ ],
+ "id_namespaces": {
+  "note": "New namespaces apply to NEW records minted from 2026-10-05 forward. Entity IDs continue as CTL-E-NNNN (never renumber published IDs); legacy slug IDs (per-*/org-*/place-*) are grandfathered per legacy_ids.",
+  "grandfathered": [
+   "CTL-E-NNNN (continuing for all entities)",
+   "per-*/org-*/place-* (closed legacy set)"
+  ],
+  "claims": "CTL-CLM-NNNNNN",
+  "evidence": "CTL-EVD-NNNNNN",
+  "relationships": "CTL-REL-NNNNNN",
+  "sources": "CTL-SRC-NNNNNN",
+  "events": "CTL-EVT-NNNNNN",
+  "geography": "CTL-GEO-NNNNNN",
+  "conflicts": "CTL-CFL-NNNNNN"
+ },
+ "relationship_optional_fields": [
+  "start_date",
+  "end_date",
+  "confidence",
+  "evidence_id"
+ ],
+ "inverse_relationships": {
+  "founded_by": "founded",
+  "founded": "founded_by",
+  "parish_of": "has_parish",
+  "has_parish": "parish_of",
+  "succeeded_by": "succeeded",
+  "succeeded": "succeeded_by",
+  "hosted_congregation": "hosted_congregation_by",
+  "hosted_congregation_by": "hosted_congregation",
+  "partnered_with": "partnered_with",
+  "member_congregation_of": "has_member_congregation",
+  "has_member_congregation": "member_congregation_of",
+  "served_neighborhood": "served_by",
+  "served_by": "served_neighborhood"
+ },
+ "source_hierarchy": [
+  {
+   "tier": 1,
+   "name": "primary government record",
+   "description": "IRS, Secretary of State, court filings, official government data."
+  },
+  {
+   "tier": 2,
+   "name": "organization-controlled record",
+   "description": "The org's own filed documents, website, authorized statements."
+  },
+  {
+   "tier": 3,
+   "name": "reputable independent reporting",
+   "description": "Established newsrooms and journals with editorial control."
+  },
+  {
+   "tier": 4,
+   "name": "structured directory",
+   "description": "Candid, Charity Navigator, Crunchbase, ProPublica — structured, editorially light."
+  },
+  {
+   "tier": 5,
+   "name": "secondary reference",
+   "description": "Encyclopedias, retrospectives, aggregators."
+  },
+  {
+   "tier": 6,
+   "name": "user-generated source",
+   "description": "Social posts, wikis, unverified submissions."
+  }
+ ],
+ "conflict_record_fields": {
+  "required": [
+   "conflict_id",
+   "subject",
+   "conflicting_claim_ids",
+   "competing_sources",
+   "stronger_source",
+   "resolution",
+   "resolution_rationale",
+   "status",
+   "review_date"
+  ],
+  "notes": {
+   "conflicting_claim_ids": "CTL-CLM-* IDs making the incompatible assertions.",
+   "competing_sources": "Array of {source, value, tier} — one per variant.",
+   "stronger_source": "Which source wins and why, per the source hierarchy.",
+   "status": "explained | unverified | superseded | open",
+   "review_date": "YYYY-MM-DD the conflict must be re-examined."
+  }
+ },
+ "event_record_fields": {
+  "required": [
+   "event_id",
+   "title",
+   "description",
+   "date_precision",
+   "participants",
+   "evidence"
+  ],
+  "optional": [
+   "date",
+   "date_note",
+   "place",
+   "consequence"
+  ],
+  "notes": {
+   "date_precision": "day | month | year | unknown — never imply false precision.",
+   "participants": "Array of entity IDs with a role in the event; [] if none documented.",
+   "place": "Entity ID or place string; null when not documented.",
+   "consequence": "One sentence on what the event changed; null when not documented."
+  }
+ },
+ "geography_record_fields": {
+  "required": [
+   "geo_id",
+   "entity_id",
+   "kind",
+   "value",
+   "public",
+   "source"
+  ],
+  "kinds": [
+   "legal_jurisdiction",
+   "service_area",
+   "mailing_address",
+   "physical_location",
+   "neighborhood",
+   "city",
+   "coordinates",
+   "locality",
+   "registered_agent_address"
+  ],
+  "notes": {
+   "entity_id": "Every geography record links to an entity. A PO Box is a mailing_address, never a physical_location or operating location."
+  }
+ },
+ "verification_timestamps": {
+  "applies_to": [
+   "claims",
+   "evidence"
+  ],
+  "optional_fields": [
+   "first_recorded",
+   "last_verified",
+   "verified_by",
+   "next_review_date"
+  ],
+  "note": "next_review_date defaults to last_verified + 1 year when not set."
+ },
+ "package_standard": {
+  "template": "packages/CTL-KG-ENTITY-CULTURETECHLENS-2026-10-05-v1/",
+  "acceptance_test": "acceptance-test.py",
+  "rule": "A package receives COMPLETE status only when acceptance-test.py exits 0."
+ }
 }

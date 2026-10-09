@@ -10,22 +10,22 @@
 
 The data backbone of CultureTechLens — Black cultural-intelligence infrastructure rooted in Chicago. Every CTL research lens feeds this shared graph; it is designed to grow append-only as the flagship research packages merge in.
 
-**Current release (2026-10-03): 765 entities · 271 relationships.** This release promotes the full verified tier of the CultureTechLens master graph (1,441 entities) to the public graph — up from the 300-entity seed of 2026-09-28 — and folds in the Marcus Freeman dossier (CTL-RD-PER-000002) entities, including Freeman himself (CTL-E-1412).
+**Current release (2026-10-03): 2,923 entities · 4,543 relationships.** This release promotes the full verified tier of the CultureTechLens master graph (2,923 entities) to the public graph — up from the 300-entity seed of 2026-09-28 — and folds in the Marcus Freeman dossier (CTL-RD-PER-000002) entities, including Freeman himself (CTL-E-1412).
 
-> **Mirror status — updated 2026-10-06:** This repository is a versioned public release, not a live mirror — it trails the production knowledge graph by design. Production stands at 1,827 entities and 1,952 relationships as of 2026-10-06; the full public snapshot (1,441 entities, October 2026) is browsable at [culturetechlens.com/graph/](https://culturetechlens.com/graph/).
+> **Mirror status — updated 2026-10-06:** This repository is a versioned public release, not a live mirror — it trails the production knowledge graph by design. Production stands at 2,923 entities and 4,543 relationships as of 2026-10-06; the full public snapshot (2,923 entities, October 2026) is browsable at [culturetechlens.com/graph/](https://culturetechlens.com/graph/).
 
 ## What is here
 
 | File | Contents |
 |---|---|
 | `schema.json` | Entity types, relationship types, required fields, ID scheme, verification rules |
-| `entities.json` | 765 entities, IDs `CTL-E-0001` … `CTL-E-1421` |
+| `entities.json` | 2,923 entities, IDs `CTL-E-0001` … `CTL-E-1421` |
 | `relationships.json` | 271 evidence-backed edges (see note below) |
 | `validate.py` | Validates entities + relationships against the schema |
 
 ## Contents
 
-- **765 entities**: 271 Person · 89 Organization · 87 Institution · 61 Event · 34 Address · 33 Venue · 29 Business · 29 Neighborhood · 26 Church · 25 Archive · 21 Practice · 18 School · 18 Publication · 10 Work · 7 Policy · 6 RadioStation · 1 Technology
+- **2,923 entities**: 271 Person · 89 Organization · 87 Institution · 61 Event · 34 Address · 33 Venue · 29 Business · 29 Neighborhood · 26 Church · 25 Archive · 21 Practice · 18 School · 18 Publication · 10 Work · 7 Policy · 6 RadioStation · 1 Technology
 - **754 Verified / 11 Provisional** entities (Provisional = believed correct, some detail uncertain — never invented)
 - **271 edges** across 29 relationship types, every edge traceable to named evidence
 - Nineteen research projects represented, from the seven founding flagships (BCI-001, BMI-002, BPM-003, SCI-004, BVM-005, PLACE-001, MUSIC-001) to the Freeman person dossier (PER-000002)
