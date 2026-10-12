@@ -48,6 +48,7 @@ The graph ships 271 edges, below the 300–500 working target. That gap is delib
 
 1. **Mint IDs from the next free number.** The public graph currently runs to `CTL-E-1421`; continue at **`CTL-E-1422`**. IDs are never reused or renumbered.
 2. **Dedupe first.** Match incoming entities against existing `name` + `aliases` (case-insensitive, canonical names win over aliases). On a match, merge into the surviving entity: union aliases, project_ids, and sources; keep the surviving ID; never reassign the retired ID.
+
 3. **Grade verification honestly.** `Verified` = well documented. `Provisional` = believed correct with some uncertainty. Never invent facts, dates, addresses, or relationships to fill gaps.
 4. **Edges carry evidence.** Each needs `evidence` (1–2 sentences) and a `source`. No edge without evidence.
 5. **Run `python3 validate.py`** before committing. Zero errors required.
@@ -70,3 +71,8 @@ Copyright 2026 CultureTechLens NFP (EIN 39-3143901).
 ---
 
 *CULTURETECHLENS · "Culture, Clearly Seen." · Black Cultural Intelligence*
+
+## Identifiers
+
+- Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779)
+
